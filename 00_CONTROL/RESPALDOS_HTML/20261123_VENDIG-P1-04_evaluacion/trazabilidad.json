@@ -1,0 +1,38 @@
+{
+  "fecha": "2026-11-23",
+  "alcance": "Solo tabla de evaluación HTML VENDIG-P1-04 de la captura del usuario",
+  "destino": "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/PARA CREAR HTML/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01_Antes_de_empezar/06_Rubricas_de_evaluacion/rubricas_de_evaluacion.html",
+  "sha256_antes": "3d785f24cefef770bc435c1a726c52c7059849a8b173e13f9c55fd76c3fb1dd8",
+  "fuentes": [
+    {
+      "tipo": "PEA",
+      "version": "V2",
+      "url": "https://drive.google.com/file/d/113b9FtI-TYhZKWlX8HZeJ_i1b5y0XxCn/view",
+      "estado": "Consultada en Drive, selección para este encargo; no acredita aprobación institucional"
+    },
+    {
+      "tipo": "SYL",
+      "version": "V1",
+      "url": "https://drive.google.com/file/d/16bIjbeo4xEkrrZckaiHs-7o3TNEj95bs/view",
+      "estado": "Consultada en Drive, selección para este encargo; no acredita aprobación institucional"
+    },
+    {
+      "tipo": "GD",
+      "version": "V1",
+      "url": "https://drive.google.com/file/d/1bx8pjRGNbkYN7jmWjBd7_CVx-NJRK7lv/view",
+      "estado": "Consultada en Drive, selección para este encargo; no acredita aprobación institucional"
+    },
+    {
+      "tipo": "GP",
+      "version": "V1",
+      "url": "https://drive.google.com/file/d/1eBaD2Gy11lXL0P_YijNQIrvLYfYHuDwD/view",
+      "estado": "Consultada en Drive, selección para este encargo; no acredita aprobación institucional"
+    }
+  ],
+  "criterio": "Descripciones, instrumentos y porcentajes de la tabla del PEA V2. Cotejo de actividades e instrumentos con SYL, GD y GP V1. No cambiar documentos fuente ni asignar ponderaciones individuales.",
+  "formato": "Fragmento HTML existente, sin motor Word ni plantilla académica nueva",
+  "limitaciones": "Node no está instalado; el validador general no pudo ejecutarse. Verificación directa de la fuente y de la tabla HTML.",
+  "discrepancias": "La GP usa escala analítica de 16 puntos por práctica, sin equivaler a ponderación institucional. Se conserva la distribución 60/40 explícita del PEA, sin derivar repartos por trabajo.",
+  "sha256_despues": "2c2a6df967ae438dded065098a55610e3c4ccb48e869d59f22a3b0c14840f98e",
+  "verificacion": "Etiquetas balanceadas, 6 columnas lógicas con celdas combinadas, 100% y 10.00 puntos por bimestre; cotejo literal normalizado con tabla PEA de Drive."
+}

@@ -1,0 +1,20 @@
+{
+  "target": "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/PARA ORGANIZAR",
+  "backup": "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/RESPALDO_PARA_ORGANIZAR_20261119",
+  "original_files_preserved": 320,
+  "original_bytes_preserved": 258066428,
+  "organized_files": 455,
+  "main_documents": 120,
+  "guides_verified": 30,
+  "backup_hashes_verified": true,
+  "copied_hashes_verified": true,
+  "source_files_unchanged": true,
+  "final_link_and_pairs_check": "Sin errores; solo las 15 materias solicitadas.",
+  "additional_historical_sources_in_backup": 1,
+  "courses": 15,
+  "software_courses": 3,
+  "sales_courses": 12,
+  "scope": "Solo las materias de la imagen del usuario; módulo 1 de Ventas y primer semestre módulo 1 de Software.",
+  "excluded_files_archived": 152,
+  "excluded_backup": "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/RESPALDO_PARA_ORGANIZAR_20261119/_FUERA_DEL_ALCANCE_SEGUN_IMAGEN"
+}

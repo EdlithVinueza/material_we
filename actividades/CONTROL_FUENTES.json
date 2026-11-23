@@ -1,0 +1,1706 @@
+{
+  "fecha": "2026-11-20",
+  "estado": "HTML locales generados; sin publicación ni comprobación en Moodle",
+  "alcance": [
+    {
+      "codigo": "VENDIG-P1-04",
+      "asignatura": "Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/06 Fichas de actividades/05_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03 Guía didáctica/GD_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/04 Guía práctica/GP_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01 PEA/PEA_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02 Sílabo/SYL_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx"
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "asignatura": "Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/06 Fichas de actividades/05_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03 Guía didáctica/GD_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/04 Guía práctica/GP_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01 PEA/PEA_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02 Sílabo/SYL_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx"
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "asignatura": "Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/06 Fichas de actividades/05_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03 Guía didáctica/GD_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/04 Guía práctica/GP_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01 PEA/PEA_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02 Sílabo/SYL_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx"
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "asignatura": "Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/06 Fichas de actividades/05_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03 Guía didáctica/GD_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/04 Guía práctica/GP_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01 PEA/PEA_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02 Sílabo/SYL_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx"
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "asignatura": "Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/06 Fichas de actividades/05_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03 Guía didáctica/GD_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/04 Guía práctica/GP_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01 PEA/PEA_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02 Sílabo/SYL_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx"
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "asignatura": "Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/06 Fichas de actividades/05_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03 Guía didáctica/GD_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/04 Guía práctica/GP_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01 PEA/PEA_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02 Sílabo/SYL_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 1,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 1,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "asignatura": "IA aplicada al análisis de datos y soporte a la decisión",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 1,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 1,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "asignatura": "CRM y Seguimiento de clientes II",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 1,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 1,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 2,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 3,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TA",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "asignatura": "Trabajo de Integración Curricular",
+      "carrera": "Ventas Digitales",
+      "unidad": 4,
+      "tipo": "TPE",
+      "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 1,
+      "tipo": "TA",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 1,
+      "tipo": "TPE",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 2,
+      "tipo": "TA",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 2,
+      "tipo": "TPE",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 3,
+      "tipo": "TA",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 3,
+      "tipo": "TPE",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 4,
+      "tipo": "TA",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "asignatura": "Fundamentos de Finanzas Personales y Empresariales",
+      "carrera": "Desarrollo de Software",
+      "unidad": 4,
+      "tipo": "TPE",
+      "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+      "ficha": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx",
+      "guia_didactica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "guia_practica": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx",
+      "pea": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx",
+      "silabo": "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx"
+    }
+  ],
+  "huellas_sha256": {
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01 PEA/PEA_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V2.docx": "42b4a9f4d5f3cf036028808f887b184120109f5774a8bdca60564587fd7e4df8",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02 Sílabo/SYL_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx": "d03be4d7028128007d0a4eba5d8d5bee7ecd212fd2469b7ad5a12d2c31676e97",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03 Guía didáctica/GD_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx": "46b010d531a97216b650d258fdef7597556ae2a0fe801313cd56e46902c6cd2b",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/04 Guía práctica/GP_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_V1.docx": "4cb8dba42ee8ec618481cf78c2a4f38afd1b3477348b61d89011c1e8dfd6d410",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 1/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/06 Fichas de actividades/05_VENDIG-P1-04_PsicologiaConsumidorPensamientoCriticoComunicacionVentas_Ficha_de_Actividades.docx": "a45d0bb8ad7b6bed88e6132c3ffaaa92988ff34c6d0ce9e9bfe8c51cdf867cf7",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01 PEA/PEA_IA_aplicada_analisis_datos_soporte_decision_V2.docx": "f12ed27661407cca7605dcadebb40e0e23d3640a62bb4057b71956a11d21f7b7",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02 Sílabo/SYLLABUS_IA_aplicada_analisis_datos_soporte_decision_V2.docx": "462bb90810b96f5fef118a17f0f5e8dc1d2468898ac62fa704aef3f45a1a3d7e",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03 Guía didáctica/GD_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx": "df9cc124b8130d231144a01de19db4b453fa6ee637423f2479f12573a46788ff",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/04 Guía práctica/GP_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_V1.docx": "c3e47a82e6dfb65b8f8e9b40d608922970b32c53a1e435c28a5c1e0eee9d8402",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 2/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/06 Fichas de actividades/09_VENDIG-P2-10_IA_aplicada_al_analisis_de_datos_y_soporte_a_la_decision_Ficha_de_Actividades.docx": "83d6655c75f5e4e2d27923cdb66c657e0ece5655c9f88e9f4e945ebf7cd6860b",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01 PEA/PEA_CRM_y_Seguimiento_de_clientes_II_V2.docx": "fb77a247f99944784c66889b2c38c9d5ce2e0035057fc1744deb409ff845deef",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02 Sílabo/SYLLABUS_CRM_y_Seguimiento_de_clientes_II_V2.docx": "5425fa624e87b92f48876087f4ce1eff5a0386fd81f13ff7d357096981ad67dc",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03 Guía didáctica/GD_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx": "49804a2820ae22b77893b772d47fbb8c97bde25ebf94f4ec797577af95dc509d",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/04 Guía práctica/GP_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_V1.docx": "4a028356bc9941261b5b4e46a23dfd46b1586ea83b913f71f3cfba24bc6483ff",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 3/VENDIG-P3-16 - CRM y Seguimiento de clientes II/06 Fichas de actividades/12_VENDIG-P3-16_CRM_y_Seguimiento_de_clientes_II_Ficha_de_Actividades.docx": "a80b4ef8ae717f5979c00cbb49c5bfdb2cf7803759d450e2663ed12e09134bbd",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/01 PEA/PEA_Trabajo_de_Integracion_Curricular_V2.docx": "e0f3621d2fd814e0d50c9a3082191635651266abaa025177e7a27fabf16a6cb1",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/02 Sílabo/SYLLABUS_Trabajo_de_Integracion_Curricular_V2.docx": "247a4203b5d4d78283447a6fb9589ec2aa767370ee292382fd03fed95e8e6852",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/03 Guía didáctica/GD_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx": "36c3728a36e1118ebdc7069af3b242b4a2b7d6483965fc4930e2a03b0219d1c9",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/04 Guía práctica/GP_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_V1.docx": "40b300da98028ee09bcafb38859884b69d5987a6ea7a0133c7079acd2f66c467",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Ventas Digitales/Semestre 4/TRINCU-I4-24 - Trabajo de Integración curricular/06 Fichas de actividades/15_TRINCU-I4-24_Trabajo_de_Integracion_Curricular_Ficha_de_Actividades.docx": "cc5b8e6a2d273ffcc7c7545f41f7093431476e48c01fade590b1a5d6cd2ff585",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01 PEA/PEA_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx": "781cc49b5e13cec05c34bbdcd0ef1a57b8851e122a5550e2631fe8fa1ecfd85e",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02 Sílabo/SYL_DSOF-B1-06_FundamentosFinanzasPersonalesEmpresariales_V3.docx": "b3feace8d89cc486d8ee45e1c33d70e34cbf7c5c1fa093abd0af0def8f685918",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03 Guía didáctica/GD_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx": "37089310cb7b19b158b2c7522e5dc2ac6325415a433e08c2d156fc6ea62b6f57",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/04 Guía práctica/GP_DSOF-B1-06_Fundamentos_de_Finanzas_Personales_y_Empresariales_V2.docx": "cef9337bf0e5bee537dd811c48bdd40c19192cbc68166d87c384be1c611b9eb9",
+    "/home/edlith-vinueza/Escritorio/Carreras organizadas/Desarrollo de Software/Semestre 1/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/06 Fichas de actividades/DSOF-B1-06_Ficha_de_Actividades.docx": "e21895772e0ea2af1669082ab985ca088c16f3ecc8b8cc325a608387d2315a1e",
+    "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/PARA CREAR HTML/Piloto_VENDIG-P1-04/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/Recursos_de_la_asignatura/Unidad_1/02_Tarea_Trabajo_experimental.html": "bad00faf447acefa1f126b24b45dbd00d1009eb4ab1cfe4f17454c20323fb0ad",
+    "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/PARA CREAR HTML/Piloto_VENDIG-P1-04/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/Recursos_de_la_asignatura/Unidad_1/01_Tarea_Trabajo_autonomo.html": "3bc439301529760496d4cc6fd92c5a5c548ae2763f779b99186ec84c23679aff"
+  },
+  "diferencias_de_titulos": [
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 1,
+      "titulo_pea": "Fundamentos de la inteligencia artificial en el entorno comercial",
+      "titulo_ficha": "Fundamentos de inteligencia artificial aplicada a ventas digitales",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 2,
+      "titulo_pea": "Preparación y estructuración de datos para análisis con IA",
+      "titulo_ficha": "Herramientas de análisis automatizado de datos",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 3,
+      "titulo_pea": "Técnicas de análisis automatizado y soporte a la decisión",
+      "titulo_ficha": "Generación de reportes y tableros de mando asistidos por IA",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 4,
+      "titulo_pea": "Visualización e interpretación de resultados comerciales",
+      "titulo_ficha": "Patrones del cliente, decisión operativa y aplicación ética de IA",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 1,
+      "titulo_pea": "Estructura avanzada de datos y cuentas estratégicas en CRM",
+      "titulo_ficha": "Gestión avanzada de información de clientes en sistemas CRM",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 2,
+      "titulo_pea": "Automatización del seguimiento comercial y flujos de trabajo",
+      "titulo_ficha": "Automatización del seguimiento comercial en CRM",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 3,
+      "titulo_pea": "Puntuación de prospectos (lead scoring) y analítica relacional",
+      "titulo_ficha": "Inteligencia artificial, lead scoring y comportamiento del cliente",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 4,
+      "titulo_pea": "Campañas automatizadas y fidelización multicanal",
+      "titulo_ficha": "Flujos automatizados de comunicación, decisión y fidelización",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 1,
+      "titulo_pea": "Definición del problema comercial y marco metodológico del proyecto",
+      "titulo_ficha": "Diagnóstico y formulación del proyecto aplicado",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 2,
+      "titulo_pea": "Diagnóstico situacional y levantamiento de información comercial",
+      "titulo_ficha": "Planificación metodológica y diseño de la intervención",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 3,
+      "titulo_pea": "Diseño y desarrollo de la propuesta tecnológica de ventas digitales",
+      "titulo_ficha": "Ejecución, integración de herramientas y documentación de evidencias",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 4,
+      "titulo_pea": "Validación de resultados, conclusiones y defensa del trabajo",
+      "titulo_ficha": "Informe técnico IMRyD y sustentación del trabajo",
+      "decision": "Encabezado de unidad tomado del PEA; consignas y orden de actividades conservados de la ficha y del sílabo."
+    }
+  ],
+  "comprobaciones_de_contenido": [
+    {
+      "codigo": "VENDIG-P1-04",
+      "unidad": 2,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "unidad": 2,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "unidad": 3,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "unidad": 3,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "unidad": 4,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P1-04",
+      "unidad": 4,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 1,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 1,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 2,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 2,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 3,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 3,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 4,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P2-10",
+      "unidad": 4,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 1,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 1,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 2,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 2,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 3,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 3,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 4,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "VENDIG-P3-16",
+      "unidad": 4,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 1,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 1,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 2,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 2,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 3,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 3,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 4,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "TRINCU-I4-24",
+      "unidad": 4,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 1,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 1,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 2,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 2,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 3,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 3,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 4,
+      "tipo": "TA",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    },
+    {
+      "codigo": "DSOF-B1-06",
+      "unidad": 4,
+      "tipo": "TPE",
+      "consigna": "Adaptada a instrucciones del modelo; trazabilidad a ficha y guías conservada."
+    }
+  ],
+  "seleccion": "Fichas y documentos de Carreras organizadas seleccionados expresamente por el usuario; sin declaración de aprobación institucional.",
+  "validacion_contexto": "Node no está disponible en la terminal. Se comprobaron directamente códigos, títulos, resultados, consignas y fuentes; no se compiló ni modificó ningún documento curricular.",
+  "rubricas": "Se usan las rúbricas de las fichas: 4 criterios, 5 niveles (4/3/2/1/0), máximo 16 puntos. Se omiten identificación, puntajes en blanco, observaciones y firma del docente.",
+  "verificacion_final": {
+    "actividades": 38,
+    "autonomos": 19,
+    "experimentales": 19,
+    "resultados": [
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "palabras_antes": 172,
+        "palabras_despues": 190,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "palabras_antes": 1163,
+        "palabras_despues": 680,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "palabras_antes": 180,
+        "palabras_despues": 185,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "palabras_antes": 1306,
+        "palabras_despues": 688,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "palabras_antes": 174,
+        "palabras_despues": 199,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "palabras_antes": 1380,
+        "palabras_despues": 737,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "palabras_antes": 205,
+        "palabras_despues": 174,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "palabras_antes": 1189,
+        "palabras_despues": 692,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "palabras_antes": 177,
+        "palabras_despues": 166,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "palabras_antes": 1712,
+        "palabras_despues": 984,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "palabras_antes": 179,
+        "palabras_despues": 174,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "palabras_antes": 1272,
+        "palabras_despues": 716,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "palabras_antes": 198,
+        "palabras_despues": 172,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "palabras_antes": 1397,
+        "palabras_despues": 765,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "palabras_antes": 170,
+        "palabras_despues": 163,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "palabras_antes": 1215,
+        "palabras_despues": 756,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "palabras_antes": 162,
+        "palabras_despues": 148,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "palabras_antes": 1228,
+        "palabras_despues": 680,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "palabras_antes": 158,
+        "palabras_despues": 147,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "palabras_antes": 1427,
+        "palabras_despues": 772,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "palabras_antes": 150,
+        "palabras_despues": 146,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "palabras_antes": 1293,
+        "palabras_despues": 722,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "palabras_antes": 183,
+        "palabras_despues": 166,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "palabras_antes": 1306,
+        "palabras_despues": 729,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "palabras_antes": 172,
+        "palabras_despues": 165,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "palabras_antes": 1160,
+        "palabras_despues": 649,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "palabras_antes": 166,
+        "palabras_despues": 162,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "palabras_antes": 1179,
+        "palabras_despues": 671,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "palabras_antes": 182,
+        "palabras_despues": 153,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "palabras_antes": 1234,
+        "palabras_despues": 691,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "palabras_antes": 159,
+        "palabras_despues": 157,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "palabras_antes": 1370,
+        "palabras_despues": 779,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "palabras_antes": 178,
+        "palabras_despues": 157,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "palabras_antes": 1373,
+        "palabras_despues": 821,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "palabras_antes": 172,
+        "palabras_despues": 147,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "palabras_antes": 1469,
+        "palabras_despues": 847,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "palabras_antes": 162,
+        "palabras_despues": 149,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "palabras_antes": 1449,
+        "palabras_despues": 789,
+        "estructura_correcta": true,
+        "caso_tablas_conservados": true,
+        "criterios_y_escala_conservados": true
+      }
+    ],
+    "revision": "Comparación local con el modelo: apartados, estilos, pasos, datos del caso, criterios y puntajes de rúbrica, nombres y enlaces. Sin prueba dentro de Moodle."
+  },
+  "organizacion_carpetas": "Código y nombre completo de la asignatura.",
+  "alcance_confirmado_por_usuario": {
+    "tipos": [
+      "Trabajo autónomo",
+      "Trabajo práctico-experimental"
+    ],
+    "psicologia_unidades": [
+      2,
+      3,
+      4
+    ],
+    "otras_cuatro_asignaturas_unidades": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "total_html_actividades": 38
+  },
+  "nombres_html": "Trabajo_autonomo_U{unidad}.html y Trabajo_experimental_U{unidad}.html, conforme a los nombres de las Tareas de Moodle de la captura.",
+  "ajuste_estructura_piloto": {
+    "solicitud": "Misma estructura de los modelos del piloto; sin apartados adicionales; conservar información necesaria.",
+    "html_corregidos": 38,
+    "modelos": {
+      "TA": "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/PARA CREAR HTML/Piloto_VENDIG-P1-04/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/Recursos_de_la_asignatura/Unidad_1/01_Tarea_Trabajo_autonomo.html",
+      "TPE": "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/PARA CREAR HTML/Piloto_VENDIG-P1-04/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/Recursos_de_la_asignatura/Unidad_1/02_Tarea_Trabajo_experimental.html"
+    },
+    "huellas_modelos_sha256": {
+      "TA": "3bc439301529760496d4cc6fd92c5a5c548ae2763f779b99186ec84c23679aff",
+      "TPE": "bad00faf447acefa1f126b24b45dbd00d1009eb4ab1cfe4f17454c20323fb0ad"
+    },
+    "tratamiento": "Evidencia en la ficha inicial; casos antes del procedimiento; preparación, recursos, comprobaciones y reflexión integrados en los pasos; formato y expediente tras Cómo entregar; rúbrica al final. Resultados generales y consigna duplicada dejan de mostrarse como apartados.",
+    "modelos_originales_sin_cambios": true
+  },
+  "redaccion_sin_abreviaturas": {
+    "archivos_revisados": 38,
+    "terminos_escritos_completos": {
+      "IA": "inteligencia artificial",
+      "CRM": "gestión de relaciones con clientes",
+      "PDF": "formato de documento portátil",
+      "USD": "dólares estadounidenses",
+      "KPI": "indicadores clave de desempeño",
+      "IMRyD": "introducción, métodos, resultados y discusión",
+      "ROI": "retorno sobre la inversión",
+      "FODA": "fortalezas, oportunidades, debilidades y amenazas",
+      "PESTEL": "político, económico, social, tecnológico, ecológico y legal",
+      "MQL": "prospectos cualificados por mercadotecnia",
+      "SQL": "prospectos cualificados para ventas",
+      "LTV": "valor del ciclo de vida del cliente",
+      "KAM": "gestión de cuentas estratégicas",
+      "SLA": "acuerdos de nivel de servicio",
+      "B2B": "comercio entre empresas",
+      "DM": "mensajería directa",
+      "LOPDP": "Ley Orgánica de Protección de Datos Personales",
+      "CSV": "valores separados por comas",
+      "SaaS": "software como servicio",
+      "APA": "normas de citación y referencias de la Asociación Americana de Psicología",
+      "pyme": "pequeña y mediana empresa",
+      "pymes": "pequeñas y medianas empresas",
+      "cm": "centímetros"
+    },
+    "identificadores_de_actividad_conservados": "TA1 a TA4 y TPE1 a TPE4, como en los modelos del piloto.",
+    "otros_elementos_conservados": "Códigos de registros, nombres de columnas y archivos, funciones de hojas de cálculo, nombres propios de herramientas y los dos conjuntos de datos originales.",
+    "estructura_conservada": true,
+    "fuentes_originales_sin_modificar": true,
+    "comprobacion": "Revisión de los 38 HTML: misma estructura y cifras; identificadores de actividad, fórmulas y bases de datos conservados.",
+    "reemplazado_por": "redaccion_clara_segun_piloto; ahora se retiran también los códigos visibles y las explicaciones largas añadidas."
+  },
+  "correccion_comillas_estilos": {
+    "html_corregidos": 38,
+    "causa": "Las comillas simples de la fuente estaban codificadas como entidades dentro del atributo style y el analizador CSS del editor las marcaba como errores.",
+    "solucion": "Comillas simples literales dentro de atributos delimitados por comillas dobles, como en los modelos del piloto.",
+    "atributos_style_comprobados": 2122,
+    "estilos_distintos_comprobados": 10,
+    "estructura_y_contenido_conservados": true,
+    "limite": "Comprobación de archivos locales; no se consultaron los diagnósticos de la sesión abierta de Visual Studio Code."
+  },
+  "redaccion_clara_segun_piloto": {
+    "archivos": 38,
+    "criterio": "Frases breves dirigidas al estudiante, sin códigos de actividad ni glosarios o explicaciones largas de siglas. Cuatro pasos autónomos y seis prácticos.",
+    "modelos": "/home/edlith-vinueza/Documentos/TRABAJO/Automatización de Documentos PEAs, Silabos y Guias/Flujo de Trabajo en Windows/PARA CREAR HTML/Piloto_VENDIG-P1-04/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/Recursos_de_la_asignatura/Unidad_1",
+    "modelos_sin_cambios": true,
+    "datos_caso": "Se conservan las tablas originales; sus códigos y nombres de columna se mantienen para poder resolver las prácticas.",
+    "rubricas": "Mismos criterios, cinco niveles y escala de 16 puntos; se simplifican expresiones sin cambiar valores.",
+    "detalle": [
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "codigo": "VENDIG-P1-04",
+        "unidad": 2,
+        "tipo": "TA",
+        "palabras_antes": 172,
+        "palabras_despues": 190,
+        "pasos": 4,
+        "nombre_actividad": "Matriz de factores y preguntas de contraste",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "codigo": "VENDIG-P1-04",
+        "unidad": 2,
+        "tipo": "TPE",
+        "palabras_antes": 1163,
+        "palabras_despues": 667,
+        "pasos": 6,
+        "nombre_actividad": "Necesidades y factores en cuatro consultas",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "codigo": "VENDIG-P1-04",
+        "unidad": 3,
+        "tipo": "TA",
+        "palabras_antes": 180,
+        "palabras_despues": 185,
+        "pasos": 4,
+        "nombre_actividad": "Contraste de modelos y afirmaciones persuasivas",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "codigo": "VENDIG-P1-04",
+        "unidad": 3,
+        "tipo": "TPE",
+        "palabras_antes": 1306,
+        "palabras_despues": 686,
+        "pasos": 6,
+        "nombre_actividad": "Revisión crítica de dos mensajes comerciales",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "codigo": "VENDIG-P1-04",
+        "unidad": 4,
+        "tipo": "TA",
+        "palabras_antes": 174,
+        "palabras_despues": 199,
+        "pasos": 4,
+        "nombre_actividad": "Análisis de objeciones y evidencias de respuesta",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "codigo": "VENDIG-P1-04",
+        "unidad": 4,
+        "tipo": "TPE",
+        "palabras_antes": 1380,
+        "palabras_despues": 747,
+        "pasos": 6,
+        "nombre_actividad": "Diálogo de atención con objeciones y decisión abierta",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 1,
+        "tipo": "TA",
+        "palabras_antes": 205,
+        "palabras_despues": 174,
+        "pasos": 4,
+        "nombre_actividad": "Aplicaciones de asistentes en la atención comercial",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 1,
+        "tipo": "TPE",
+        "palabras_antes": 1189,
+        "palabras_despues": 705,
+        "pasos": 6,
+        "nombre_actividad": "Comparación de asistentes y recorrido de atención",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 2,
+        "tipo": "TA",
+        "palabras_antes": 177,
+        "palabras_despues": 166,
+        "pasos": 4,
+        "nombre_actividad": "Opiniones y patrones de compra",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 2,
+        "tipo": "TPE",
+        "palabras_antes": 1712,
+        "palabras_despues": 979,
+        "pasos": 6,
+        "nombre_actividad": "Limpieza de ventas y grupos de clientes",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 3,
+        "tipo": "TA",
+        "palabras_antes": 179,
+        "palabras_despues": 174,
+        "pasos": 4,
+        "nombre_actividad": "Lectura de gráficos y elección de indicadores",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 3,
+        "tipo": "TPE",
+        "palabras_antes": 1272,
+        "palabras_despues": 721,
+        "pasos": 6,
+        "nombre_actividad": "Tablero comercial e informe de ventas",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 4,
+        "tipo": "TA",
+        "palabras_antes": 198,
+        "palabras_despues": 172,
+        "pasos": 4,
+        "nombre_actividad": "Recomendaciones comerciales y uso responsable de datos",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "codigo": "VENDIG-P2-10",
+        "unidad": 4,
+        "tipo": "TPE",
+        "palabras_antes": 1397,
+        "palabras_despues": 784,
+        "pasos": 6,
+        "nombre_actividad": "Propuesta de promociones y revisión de riesgos",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 1,
+        "tipo": "TA",
+        "palabras_antes": 170,
+        "palabras_despues": 163,
+        "pasos": 4,
+        "nombre_actividad": "Organización de la información de clientes",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 1,
+        "tipo": "TPE",
+        "palabras_antes": 1215,
+        "palabras_despues": 769,
+        "pasos": 6,
+        "nombre_actividad": "Organización de cuentas y seguimiento de un reclamo",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 2,
+        "tipo": "TA",
+        "palabras_antes": 162,
+        "palabras_despues": 148,
+        "pasos": 4,
+        "nombre_actividad": "Buenas prácticas de seguimiento",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 2,
+        "tipo": "TPE",
+        "palabras_antes": 1228,
+        "palabras_despues": 691,
+        "pasos": 6,
+        "nombre_actividad": "Tres reglas para organizar el seguimiento",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 3,
+        "tipo": "TA",
+        "palabras_antes": 158,
+        "palabras_despues": 147,
+        "pasos": 4,
+        "nombre_actividad": "Preguntas sobre prioridad de atención",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 3,
+        "tipo": "TPE",
+        "palabras_antes": 1427,
+        "palabras_despues": 782,
+        "pasos": 6,
+        "nombre_actividad": "Prioridad de atención de quince posibles clientes",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 4,
+        "tipo": "TA",
+        "palabras_antes": 150,
+        "palabras_despues": 146,
+        "pasos": 4,
+        "nombre_actividad": "Propuesta para conservar clientes",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "codigo": "VENDIG-P3-16",
+        "unidad": 4,
+        "tipo": "TPE",
+        "palabras_antes": 1293,
+        "palabras_despues": 731,
+        "pasos": 6,
+        "nombre_actividad": "Plan de comunicación después de la compra",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 1,
+        "tipo": "TA",
+        "palabras_antes": 183,
+        "palabras_despues": 166,
+        "pasos": 4,
+        "nombre_actividad": "Lectura y revisión del diagnóstico",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 1,
+        "tipo": "TPE",
+        "palabras_antes": 1306,
+        "palabras_despues": 742,
+        "pasos": 6,
+        "nombre_actividad": "Problema, objetivos y propuesta del proyecto",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 2,
+        "tipo": "TA",
+        "palabras_antes": 172,
+        "palabras_despues": 165,
+        "pasos": 4,
+        "nombre_actividad": "Fundamentos y viabilidad del proyecto",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 2,
+        "tipo": "TPE",
+        "palabras_antes": 1160,
+        "palabras_despues": 656,
+        "pasos": 6,
+        "nombre_actividad": "Plan de trabajo y calendario de ejecución",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 3,
+        "tipo": "TA",
+        "palabras_antes": 166,
+        "palabras_despues": 162,
+        "pasos": 4,
+        "nombre_actividad": "Desarrollo y primeros resultados del proyecto",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 3,
+        "tipo": "TPE",
+        "palabras_antes": 1179,
+        "palabras_despues": 669,
+        "pasos": 6,
+        "nombre_actividad": "Aplicación de la propuesta y registro de resultados",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 4,
+        "tipo": "TA",
+        "palabras_antes": 182,
+        "palabras_despues": 153,
+        "pasos": 4,
+        "nombre_actividad": "Revisión del informe y declaración de autoría",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Ventas_Digitales/TRINCU-I4-24 - Trabajo de Integración Curricular/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "codigo": "TRINCU-I4-24",
+        "unidad": 4,
+        "tipo": "TPE",
+        "palabras_antes": 1234,
+        "palabras_despues": 714,
+        "pasos": 6,
+        "nombre_actividad": "Informe final y presentación del proyecto",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_01/Trabajo_autonomo_U1.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 1,
+        "tipo": "TA",
+        "palabras_antes": 159,
+        "palabras_despues": 157,
+        "pasos": 4,
+        "nombre_actividad": "Finanzas personales y plan de metas",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_01/Trabajo_experimental_U1.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 1,
+        "tipo": "TPE",
+        "palabras_antes": 1370,
+        "palabras_despues": 786,
+        "pasos": 6,
+        "nombre_actividad": "Ahorro o crédito para renovar un computador",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_02/Trabajo_autonomo_U2.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 2,
+        "tipo": "TA",
+        "palabras_antes": 178,
+        "palabras_despues": 157,
+        "pasos": 4,
+        "nombre_actividad": "Presupuesto y flujo de caja para seis meses",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_1/Unidad_02/Trabajo_experimental_U2.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 2,
+        "tipo": "TPE",
+        "palabras_antes": 1373,
+        "palabras_despues": 826,
+        "pasos": 6,
+        "nombre_actividad": "Presupuesto y control mensual del dinero",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_03/Trabajo_autonomo_U3.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 3,
+        "tipo": "TA",
+        "palabras_antes": 172,
+        "palabras_despues": 147,
+        "pasos": 4,
+        "nombre_actividad": "Costos, ganancias y punto de equilibrio",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_03/Trabajo_experimental_U3.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 3,
+        "tipo": "TPE",
+        "palabras_antes": 1469,
+        "palabras_despues": 849,
+        "pasos": 6,
+        "nombre_actividad": "Costos y rentabilidad de un módulo de software",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_04/Trabajo_autonomo_U4.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 4,
+        "tipo": "TA",
+        "palabras_antes": 162,
+        "palabras_despues": 149,
+        "pasos": 4,
+        "nombre_actividad": "Diseño de un tablero financiero",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": false
+      },
+      {
+        "html": "Desarrollo_de_Software/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Bimestre_2/Unidad_04/Trabajo_experimental_U4.html",
+        "codigo": "DSOF-B1-06",
+        "unidad": 4,
+        "tipo": "TPE",
+        "palabras_antes": 1449,
+        "palabras_despues": 795,
+        "pasos": 6,
+        "nombre_actividad": "Control de cobros, pagos y crédito",
+        "datos_originales_conservados": true,
+        "escala_rubrica_conservada": true
+      }
+    ],
+    "revision_rubricas": "Descripciones revisadas por contexto; mismos criterios, niveles y puntajes. Se retiran códigos de actividad y vocabulario innecesario, conservando códigos de datos cuando son necesarios para el ejercicio.",
+    "palabras_antes": 28421,
+    "palabras_despues": 17288
+  }
+}

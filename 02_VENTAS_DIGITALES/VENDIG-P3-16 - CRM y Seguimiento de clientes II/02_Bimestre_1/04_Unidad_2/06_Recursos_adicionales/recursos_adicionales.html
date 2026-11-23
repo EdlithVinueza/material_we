@@ -1,0 +1,64 @@
+<div
+  style="width: 100%; max-width: 1000px; margin: 20px auto; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; box-sizing: border-box;">
+  <!-- Bloque azul del título -->
+  <div
+    style="width: 100%; height: 60px; background: linear-gradient(90deg, #008cc1 0%, #1c3055 100%); border-radius: 10px; display: flex; align-items: center; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <div
+      style="width: 60px; height: 100%; display: flex; align-items: center; justify-content: center; background: transparent;">
+      <span style="color: #ffffff; font-size: 24px;">🔗<br></span></div>
+    <div style="padding-left: 20px;">
+      <h2
+        style="color: #ffffff; font-size: 18px; font-weight: bold; margin: 0; text-transform: uppercase; letter-spacing: 0.5px;">
+        recursos adicionales</h2>
+    </div>
+  </div>
+  <!-- Texto alineado con el contenedor superior -->
+  <div style="color: #333333; line-height: 1.6; font-size: 15px;">En este espacio se reúnen lecturas complementarias, enlaces de interés y guías de apoyo seleccionadas para profundizar en los conceptos estudiados y enriquecer tu visión sobre los temas.</div>
+</div>
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; line-height: 2.2; max-width: 100%;">
+  <details
+    style="background: #ffffff; border: 1px solid #dee2e6; border-radius: 12px; padding: 10px 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <summary
+      style="font-weight: bold; cursor: pointer; color: #0056b3; outline: none; list-style: none; display: flex; align-items: center; justify-content: space-between;">
+      🧠 Desarrollo conceptual<span
+        style="font-size: 0.8rem; transform: rotate(90deg);">▶</span></summary>
+    <div style="margin: 12px 0; line-height: 1.6;">
+<p>Una regla de seguimiento combina un evento, condiciones y una acción. Puede asignar un prospecto por zona o crear un recordatorio, siempre que valide el estado del registro. Prueba qué ocurre si faltan datos o se edita el mismo contacto dos veces.</p>
+    </div>
+  </details>
+</div>
+<hr style="border: none; border-top: 1.5px solid #0056b3; margin: 20px 0;">
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; line-height: 2.2; max-width: 100%;">
+  <details
+    style="background: #ffffff; border: 1px solid #dee2e6; border-radius: 12px; padding: 10px 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <summary
+      style="font-weight: bold; cursor: pointer; color: #0056b3; outline: none; list-style: none; display: flex; align-items: center; justify-content: space-between;">
+      💡 Ejemplo didáctico resuelto<span
+        style="font-size: 0.8rem; transform: rotate(90deg);">▶</span></summary>
+    <div style="margin: 12px 0; line-height: 1.6;">
+<p><strong>Caso.</strong> En el flujo simulado de una tienda digital, cada vez que se actualiza la ficha de un prospecto de Guayaquil se dispara una regla que asigna tarea de llamada al asesor de la región Costa. Un vendedor edita el teléfono del contacto dos veces seguidas y el disparador se activa dos veces generando tareas duplicadas.</p>
+<p><strong>Causa técnica.</strong> La regla solo evalúa <em>&quot;el campo ciudad es Guayaquil&quot;</em>, sin verificar si ya existe una tarea de primer contacto abierta o si la propiedad de origen ya fue procesada.</p>
+<p><strong>Solución operativa.</strong> Añadir la condición <em>&quot;y el campo estado de asignación está vacío&quot;</em> más un registro de ejecución única, de modo que la segunda edición actualice los datos sin duplicar tareas ni notificaciones.</p>
+    </div>
+  </details>
+</div>
+<hr style="border: none; border-top: 1.5px solid #0056b3; margin: 20px 0;">
+<div
+  style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; line-height: 2.2; max-width: 100%;">
+  <details
+    style="background: #ffffff; border: 1px solid #dee2e6; border-radius: 12px; padding: 10px 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <summary
+      style="font-weight: bold; cursor: pointer; color: #0056b3; outline: none; list-style: none; display: flex; align-items: center; justify-content: space-between;">
+      🧭 Ejercicio guiado para el trabajo autónomo<span
+        style="font-size: 0.8rem; transform: rotate(90deg);">▶</span></summary>
+    <div style="margin: 12px 0; line-height: 1.6;">
+<ol style="padding-left: 22px;">
+<li>Imagina que llega un prospecto el sábado por la noche y dibuja el flujo hasta el lunes.</li>
+<li>Indica quién recibe la alerta, bajo qué condición y qué tarea se crea.</li>
+<li>Simula una segunda edición de la ficha. Añade o ajusta la condición que impide que otro asesor reciba una tarea para llamar al mismo contacto.</li>
+</ol>
+    </div>
+  </details>
+</div>

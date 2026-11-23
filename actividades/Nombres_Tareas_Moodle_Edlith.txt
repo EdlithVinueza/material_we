@@ -1,0 +1,58 @@
+NOMBRES DE LAS TAREAS PARA MOODLE
+Copia cada nombre en el campo Nombre de la tarea correspondiente.
+
+Ventas Digitales · VENDIG-P2-10 · IA aplicada al análisis de datos y soporte a la decisión
+
+Trabajo_autonomo_U1
+Trabajo_experimental_U1
+
+Trabajo_autonomo_U2
+Trabajo_experimental_U2
+
+Trabajo_autonomo_U3
+Trabajo_experimental_U3
+
+Trabajo_autonomo_U4
+Trabajo_experimental_U4
+
+Ventas Digitales · VENDIG-P3-16 · CRM y Seguimiento de clientes II
+
+Trabajo_autonomo_U1
+Trabajo_experimental_U1
+
+Trabajo_autonomo_U2
+Trabajo_experimental_U2
+
+Trabajo_autonomo_U3
+Trabajo_experimental_U3
+
+Trabajo_autonomo_U4
+Trabajo_experimental_U4
+
+Ventas Digitales · TRINCU-I4-24 · Trabajo de Integración Curricular
+
+Trabajo_autonomo_U1
+Trabajo_experimental_U1
+
+Trabajo_autonomo_U2
+Trabajo_experimental_U2
+
+Trabajo_autonomo_U3
+Trabajo_experimental_U3
+
+Trabajo_autonomo_U4
+Trabajo_experimental_U4
+
+Desarrollo de Software · DSOF-B1-06 · Fundamentos de Finanzas Personales y Empresariales
+
+Trabajo_autonomo_U1
+Trabajo_experimental_U1
+
+Trabajo_autonomo_U2
+Trabajo_experimental_U2
+
+Trabajo_autonomo_U3
+Trabajo_experimental_U3
+
+Trabajo_autonomo_U4
+Trabajo_experimental_U4

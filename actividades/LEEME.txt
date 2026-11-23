@@ -1,0 +1,39 @@
+ACTIVIDADES CGE PARA MOODLE
+Preparación: 20 de noviembre de 2026.
+
+CONTENIDO
+38 descripciones de Tareas en HTML: 19 trabajos autónomos y 19 trabajos práctico-experimentales.
+Ventas Digitales: VENDIG-P2-10, VENDIG-P3-16 y TRINCU-I4-24, unidades 1 a 4; VENDIG-P1-04, unidades 2 a 4.
+Desarrollo de Software: DSOF-B1-06, unidades 1 a 4. Esta es la asignatura de Finanzas asignada a Edlith en la captura; la de Ventas está asignada a Kevin y queda fuera del encargo.
+
+USO
+1. Abre index.html para localizar la asignatura y la unidad.
+2. Abre el HTML elegido en un editor de texto y copia todo el fragmento.
+3. Pégalo en Código HTML dentro de la descripción de la Tarea de Moodle correspondiente.
+4. Configura en Moodle la fecha, los archivos admitidos y la calificación según la planificación del curso. La escala de 16 puntos de la rúbrica describe la práctica y no fija por sí sola su ponderación bimestral.
+
+FUENTES Y DECISIONES
+Se leyeron los Word de /home/edlith-vinueza/Escritorio/Carreras organizadas (nombre real de la carpeta indicada por el usuario).
+Las consignas se adaptaron a instrucciones directas dentro de la estructura de los dos modelos del piloto; su contenido se cotejó con las fichas y las guías. El trabajo práctico incorpora caso, datos completos, preparación, recursos, procedimiento, evidencia y reflexión de la guía práctica.
+El diseño reutiliza las dos descripciones de Tareas de la Unidad 1 del piloto local; el título y el nombre completo de la actividad están en negrita. No se modificó el piloto ni los documentos fuente.
+Se conservó el orden de las actividades de las fichas y del sílabo. En IA, CRM e Integración Curricular existen diferencias entre los títulos de unidad del PEA y las fichas; el encabezado utiliza el título del PEA y CONTROL_FUENTES.json registra ambos nombres. No se reordenaron las prácticas por semejanza de los títulos.
+Las rúbricas proceden de las fichas actualizadas, con cinco niveles y máximo de 16 puntos. Se retiraron los campos de identificación, observaciones, calificación en blanco y firma destinados al docente.
+
+RECURSOS QUE EL AULA DEBE TENER DISPONIBLES
+Las fichas mencionan cuestionarios en IA U1, CRM U3 e Integración Curricular U1, pero no contienen sus preguntas. Se conserva esa parte de la consigna; las preguntas y el recurso de respuesta deben proporcionarse en Moodle. No se inventaron preguntas ni enlaces.
+Integración Curricular requiere la plantilla institucional del proyecto y el espacio de intercambio entre pares descritos por las guías. Los accesos a simuladores o herramientas autorizadas corresponden al aula.
+No se añadieron datos docentes, fechas de calendario, enlaces de Moodle ni ponderaciones no confirmados.
+
+CONTROL
+FUENTES.csv vincula cada HTML con sus cinco documentos de referencia. CONTROL_FUENTES.json conserva las huellas de archivos y decisiones de selección.
+La comprobación se limita a archivos y vistas locales; no se han publicado ni probado dentro de Moodle.
+La revisión visual no pudo completarse por el bloqueo de apertura de archivos locales del navegador. Se comprobaron la estructura de los 38 fragmentos, las consignas completas, los párrafos y celdas de las guías prácticas, las rúbricas y todos los enlaces del índice.
+
+AJUSTE A LA ESTRUCTURA DEL PILOTO
+Los 38 HTML usan los apartados del modelo: Asignatura, Actividad, Evidencia, Qué completar y Cómo entregar; los autónomos cierran con Criterios de revisión y los experimentales con Nombre del expediente, Formato y la rúbrica. La preparación, los recursos y la reflexión forman parte del mismo procedimiento. Se conservan los datos, las tablas de aplicación y los criterios y niveles de las rúbricas. No se muestran los apartados adicionales de Resultado de aprendizaje, Consigna, Caso y datos para trabajar, Antes de empezar, Recursos para la práctica, Qué entregar ni Reflexión de cierre. Los dos modelos originales del piloto se mantienen intactos.
+
+REDACCIÓN SIN ABREVIATURAS
+Se escribieron completos los términos del texto de las actividades. Se mantienen los identificadores de actividad como TA2 y TPE2, los códigos y campos de datos, los nombres de archivos y funciones y las denominaciones propias de herramientas. Las dos bases de datos originales mantienen sus valores y nombres de columna para que el procedimiento sea reproducible. La estructura del piloto se conserva.
+
+REDACCIÓN CLARA SEGÚN EL PILOTO
+Revisión posterior por indicación del usuario: se reescribieron las 38 actividades con instrucciones breves, sin códigos de actividad ni desarrollos largos de siglas. Esta indicación sustituye la decisión anterior de conservar los códigos TA y TPE en el texto. Se mantienen los nombres de archivos HTML, el índice y las tablas de datos necesarias. Las rúbricas conservan criterios, niveles y valores; se simplificó su redacción. Los dos modelos originales siguen intactos.

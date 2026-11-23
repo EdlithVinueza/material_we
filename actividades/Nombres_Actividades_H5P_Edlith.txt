@@ -1,0 +1,58 @@
+NOMBRES DE LAS ACTIVIDADES H5P PARA MOODLE
+Copia estos nombres en el campo Nombre de cada actividad H5P.
+
+VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión
+
+U1_A1_IAADSD_Completar_espacios
+U1_A2_IAADSD_Opcion_multiple
+
+U2_A1_IAADSD_Arrastra_y_suelta
+U2_A2_IAADSD_Orden_correcto
+
+U3_A1_IAADSD_Marcar_palabras
+U3_A2_IAADSD_Opcion_multiple
+
+U4_A1_IAADSD_Completar_espacios
+U4_A2_IAADSD_Opcion_multiple
+
+VENDIG-P3-16 - CRM y Seguimiento de clientes II
+
+U1_A1_CRMSCII_Completar_espacios
+U1_A2_CRMSCII_Opcion_multiple
+
+U2_A1_CRMSCII_Completar_espacios
+U2_A2_CRMSCII_Orden_correcto
+
+U3_A1_CRMSCII_Arrastra_y_suelta
+U3_A2_CRMSCII_Tarjetas_interactivas
+
+U4_A1_CRMSCII_Marcar_palabras
+U4_A2_CRMSCII_Opcion_multiple
+
+TRINCU-I4-24 - Trabajo de Integración Curricular
+
+U1_A1_TIC_Arrastra_y_suelta
+U1_A2_TIC_Orden_correcto
+
+U2_A1_TIC_Marcar_palabras
+U2_A2_TIC_Opcion_multiple
+
+U3_A1_TIC_Sopa_de_letras
+U3_A2_TIC_Opcion_multiple
+
+U4_A1_TIC_Arrastra_y_suelta
+U4_A2_TIC_Tarjetas_interactivas
+
+DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales
+
+U1_A1_FFPE_Marcar_palabras
+U1_A2_FFPE_Opcion_multiple
+
+U2_A1_FFPE_Completar_espacios
+U2_A2_FFPE_Orden_correcto
+
+U3_A1_FFPE_Arrastra_y_suelta
+U3_A2_FFPE_Tarjetas_interactivas
+
+U4_A1_FFPE_Marcar_palabras
+U4_A2_FFPE_Opcion_multiple
