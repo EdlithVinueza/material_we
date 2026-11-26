@@ -1,0 +1,17 @@
+VIDEOS DEL DOCENTE — VENTAS DIGITALES
+
+Contenido: 24 fragmentos HTML, organizados en seis carpetas por asignatura.
+Cada carpeta tiene los archivos Video_docente_Unidad_1.html a Video_docente_Unidad_4.html.
+
+1. Abre index.html para localizar y revisar los videos.
+2. En Moodle, entra en la asignatura y unidad correspondientes.
+3. Edita el bloque «Video del docente» (Área de texto y medios / Etiqueta).
+4. Abre el HTML de esa unidad en un editor de texto y copia todo su contenido.
+5. En el editor de Moodle, activa «Código HTML», pega el contenido y guarda.
+6. Revisa la reproducción desde el aula.
+
+Unidades 1 y 2: Bimestre 1. Unidades 3 y 4: Bimestre 2.
+Los archivos conservan el reproductor adaptable y los estilos de la plantilla original.
+Cada HTML es independiente y no necesita imágenes, hojas de estilo ni archivos de otras carpetas.
+Para ver los videos se necesita conexión a internet y que YouTube permita su reproducción e inserción.
+La comprobación local no confirma la disponibilidad ni los permisos de inserción de los videos en YouTube.

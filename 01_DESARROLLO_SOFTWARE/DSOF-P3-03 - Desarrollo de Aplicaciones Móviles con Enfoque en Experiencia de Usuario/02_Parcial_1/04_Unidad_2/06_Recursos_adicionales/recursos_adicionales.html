@@ -1,0 +1,48 @@
+<div style="width: 100%; max-width: 1000px; margin: 20px auto; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; box-sizing: border-box;">
+  <!-- Bloque azul del título -->
+  <div style="width: 100%; height: 60px; background: linear-gradient(90deg, #008cc1 0%, #1c3055 100%); border-radius: 10px; display: flex; align-items: center; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <div style="width: 60px; height: 100%; display: flex; align-items: center; justify-content: center; background: transparent;">
+      <span style="color: #ffffff; font-size: 24px;">🔗<br></span></div>
+    <div style="padding-left: 20px;">
+      <h2 style="color: #ffffff; font-size: 18px; font-weight: bold; margin: 0; text-transform: uppercase; letter-spacing: 0.5px;">
+        recursos adicionales</h2>
+    </div>
+  </div>
+  <!-- Texto alineado con el contenedor superior -->
+  <div style="color: #333333; line-height: 1.6; font-size: 15px;">En este espacio se reúnen lecturas complementarias, enlaces de interés y guías de apoyo seleccionadas para profundizar en los conceptos estudiados y enriquecer tu visión sobre los temas.</div>
+</div>
+<div style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; line-height: 2.2; max-width: 100%;">
+  <details style="background: #ffffff; border: 1px solid #dee2e6; border-radius: 12px; padding: 10px 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <summary style="font-weight: bold; cursor: pointer; color: #0056b3; outline: none; list-style: none; display: flex; align-items: center; justify-content: space-between;">
+      🧠 Desarrollo conceptual<span style="font-size: 0.8rem; transform: rotate(90deg);">▶</span></summary>
+    <div style="margin: 12px 0; line-height: 1.6;">
+<p>Una interfaz reactiva representa los cambios del estado de la aplicación: un formulario, un contador o una selección deben actualizarse de forma coherente mientras la persona interactúa. Separa los datos y la lógica de negocio de los componentes visuales para facilitar su mantenimiento. Organiza las rutas con pila de navegación, pestañas inferiores o cajón lateral según la función de cada pantalla. Los gestos necesitan una respuesta visible o háptica y un control alternativo accesible. Preservar la información al navegar, rotar o reanudar la aplicación exige comprobar cómo se gestiona ese estado.</p>
+    </div>
+  </details>
+</div>
+<hr style="border: none; border-top: 1.5px solid #0056b3; margin: 20px 0;">
+<div style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; line-height: 2.2; max-width: 100%;">
+  <details style="background: #ffffff; border: 1px solid #dee2e6; border-radius: 12px; padding: 10px 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <summary style="font-weight: bold; cursor: pointer; color: #0056b3; outline: none; list-style: none; display: flex; align-items: center; justify-content: space-between;">
+      💡 Ejemplo didáctico resuelto<span style="font-size: 0.8rem; transform: rotate(90deg);">▶</span></summary>
+    <div style="margin: 12px 0; line-height: 1.6;">
+<p><strong>Caso.</strong> En una aplicación ficticia de pedidos, el formulario queda vacío al regresar de la pantalla donde se elige una dirección. Un gesto para completar el pedido tampoco muestra confirmación y puede activarse accidentalmente.</p>
+<p><strong>Diagnóstico de falla.</strong> Los datos dependen del estado local de una pantalla que se reconstruye al navegar. Además, el gesto modifica el pedido sin comunicar claramente el resultado ni ofrecer una alternativa visible.</p>
+<p><strong>Corrección técnica.</strong> Guarda el formulario en un gestor compartido y devuelve la dirección seleccionada mediante la ruta correspondiente. Acompaña el gesto con confirmación o una opción para deshacer, ofrece un botón equivalente y comprueba que los datos se conserven.</p>
+    </div>
+  </details>
+</div>
+<hr style="border: none; border-top: 1.5px solid #0056b3; margin: 20px 0;">
+<div style="font-family: 'Segoe UI', Arial, sans-serif; color: #333; line-height: 2.2; max-width: 100%;">
+  <details style="background: #ffffff; border: 1px solid #dee2e6; border-radius: 12px; padding: 10px 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <summary style="font-weight: bold; cursor: pointer; color: #0056b3; outline: none; list-style: none; display: flex; align-items: center; justify-content: space-between;">
+      🧭 Ejercicio guiado para el trabajo autónomo<span style="font-size: 0.8rem; transform: rotate(90deg);">▶</span></summary>
+    <div style="margin: 12px 0; line-height: 1.6;">
+<ol style="padding-left: 22px;">
+<li>Esquematiza las pantallas, las rutas y los datos que deben compartirse. Define qué información recibe cada vista y qué debe conservarse al regresar.</li>
+<li>Separa la gestión del estado de la vista. Incorpora los gestos previstos y comprueba que exista retroalimentación y una alternativa visible para realizar la misma acción.</li>
+<li>Prueba la navegación, la rotación y la suspensión y reanudación. Revisa si el formulario conserva sus datos y explica los ajustes realizados en tu análisis.</li>
+</ol>
+    </div>
+  </details>
+</div>

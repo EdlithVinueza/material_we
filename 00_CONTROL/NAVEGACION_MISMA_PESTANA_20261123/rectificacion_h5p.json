@@ -1,0 +1,299 @@
+{
+  "fecha": "2026-11-23",
+  "peticion": "Pegar el H5P igual que en la plantilla, sin incrustar páginas de Moodle.",
+  "archivos_rectificados": 58,
+  "h5p_originales_conservados": 4,
+  "actividades_pendientes": 36,
+  "pendientes": [
+    {
+      "actividad": "🖍️ Marcar palabras · Conceptos financieros básicos y finanzas en la economía digital",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1994",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_FFPE_Marcar_palabras.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Conceptos financieros básicos y finanzas en la economía digital",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1995",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_FFPE_Opcion_multiple.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "✍️ Completar espacios · Registro, control de flujo de caja y presupuestos",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1996",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_FFPE_Completar_espacios.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🔢 Orden correcto · Registro, control de flujo de caja y presupuestos",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1997",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_FFPE_Orden_correcto.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖐️ Arrastra y suelta · Costos, punto de equilibrio y rentabilidad",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1998",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_FFPE_Arrastra_y_suelta.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎴 Tarjetas interactivas · Costos, punto de equilibrio y rentabilidad",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1999",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_FFPE_Tarjetas_interactivas.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖍️ Marcar palabras · Hojas de cálculo y tableros de control financiero",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2000",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_FFPE_Marcar_palabras.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Hojas de cálculo y tableros de control financiero",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2001",
+      "archivos": [
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_FFPE_Opcion_multiple.html",
+        "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖐️ Arrastra y suelta · Diagnóstico y formulación del proyecto aplicado",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1970",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_TIC_Arrastra_y_suelta.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🔢 Orden correcto · Diagnóstico y formulación del proyecto aplicado",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1971",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_TIC_Orden_correcto.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖍️ Marcar palabras · Planificación metodológica y diseño de la intervención",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1972",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_TIC_Marcar_palabras.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Planificación metodológica y diseño de la intervención",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1973",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_TIC_Opcion_multiple.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🔎 Sopa de letras · Ejecución, integración de herramientas y documentación de evidencias",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1974",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_TIC_Sopa_de_letras.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Ejecución, integración de herramientas y documentación de evidencias",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1975",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_TIC_Opcion_multiple.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖐️ Arrastra y suelta · Informe técnico IMRyD y sustentación del trabajo",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1976",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_TIC_Arrastra_y_suelta.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎴 Tarjetas interactivas · Informe técnico IMRyD y sustentación del trabajo",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1977",
+      "archivos": [
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_TIC_Tarjetas_interactivas.html",
+        "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "✍️ Completar espacios · Fundamentos de inteligencia artificial aplicada a ventas digitales",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1954",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_IAADSD_Completar_espacios.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Fundamentos de inteligencia artificial aplicada a ventas digitales",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1955",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_IAADSD_Opcion_multiple.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖐️ Arrastra y suelta · Herramientas de análisis automatizado de datos",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1956",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_IAADSD_Arrastra_y_suelta.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🔢 Orden correcto · Herramientas de análisis automatizado de datos",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1957",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_IAADSD_Orden_correcto.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖍️ Marcar palabras · Generación de reportes y tableros de mando asistidos por IA",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1958",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_IAADSD_Marcar_palabras.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Generación de reportes y tableros de mando asistidos por IA",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1959",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_IAADSD_Opcion_multiple.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "✍️ Completar espacios · Patrones del cliente, decisión operativa y aplicación ética de IA",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1960",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_IAADSD_Completar_espacios.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Patrones del cliente, decisión operativa y aplicación ética de IA",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1961",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_IAADSD_Opcion_multiple.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "✍️ Completar espacios · Gestión avanzada de información de clientes en sistemas CRM",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1978",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_CRMSCII_Completar_espacios.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Gestión avanzada de información de clientes en sistemas CRM",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1979",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_CRMSCII_Opcion_multiple.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "✍️ Completar espacios · Automatización del seguimiento comercial en CRM",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1980",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_CRMSCII_Completar_espacios.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🔢 Orden correcto · Automatización del seguimiento comercial en CRM",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1981",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_CRMSCII_Orden_correcto.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖐️ Arrastra y suelta · Inteligencia artificial, lead scoring y comportamiento del cliente",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1982",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_CRMSCII_Arrastra_y_suelta.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎴 Tarjetas interactivas · Inteligencia artificial, lead scoring y comportamiento del cliente",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1983",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_CRMSCII_Tarjetas_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖍️ Marcar palabras · Flujos automatizados de comunicación, decisión y fidelización",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1984",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_CRMSCII_Marcar_palabras.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎯 Opción múltiple · Flujos automatizados de comunicación, decisión y fidelización",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1985",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_CRMSCII_Opcion_multiple.html",
+        "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "✏️ Completa los espacios",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1529",
+      "archivos": [
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/01_Completa_los_espacios.html",
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "☑️ Opción múltiple",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1530",
+      "archivos": [
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/02_Opcion_multiple.html",
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🖐️ Arrastra y suelta",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1531",
+      "archivos": [
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/01_Arrastra_y_suelta.html",
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    },
+    {
+      "actividad": "🎴 Tarjetas interactivas",
+      "pagina_moodle_referencia": "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1532",
+      "archivos": [
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/02_Tarjetas_interactivas.html",
+        "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html"
+      ]
+    }
+  ],
+  "navegacion": "Se conserva _self para tareas, cuestionarios y demás enlaces.",
+  "publicacion": "Solo HTML locales; no se modificó Moodle."
+}

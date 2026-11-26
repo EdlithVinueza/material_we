@@ -1,0 +1,1114 @@
+{
+  "fecha": "2026-11-23",
+  "alcance": "Cinco asignaturas de Edlith, confirmado por el usuario",
+  "asignaturas": [
+    "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+    "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión",
+    "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II",
+    "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales"
+  ],
+  "html_revisados": 401,
+  "html_modificados": 119,
+  "criterio": "Enlaces de navegación en la misma pestaña. Actividades: conservar únicamente el iframe y script H5P original, siguiendo la plantilla; sin páginas completas de Moodle ni botones intermedios.",
+  "inserciones": "Rectificación solicitada por el usuario: retiradas las 72 apariciones de páginas completas de Moodle y todos los atributos sandbox añadidos. Conservadas sin cambios las 4 inserciones H5P originales. Las otras 36 actividades quedan con un comentario de ubicación, pendiente del código de inserción original.",
+  "comprobacion_en_moodle": "Pendiente: acceso HTTP rechazado con 403. La revisión local no publica los cambios en el aula.",
+  "cambios": [
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/00_Instituto_CGE/01_Instituto_CGE/instituto_cge.html",
+      "antes_sha256": "d3f1e38578ed39a46349778b4803ad74604de821b089951d16acdee2162f151b",
+      "despues_sha256": "a3edf749f1e4ea8ed6bb431776fbd3506fe17e4f933e25ef971bad47ed7fad40",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/00_Instituto_CGE/02_Soporte/soporte.html",
+      "antes_sha256": "3a4653b35de11d97c2d0bffe3b45441e4067fe66fd30c88af779ce92cadf6540",
+      "despues_sha256": "8380870f187418ab4780dc2eac6dbed0050953ce949e9ee2e835157fe37b74d2",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/00_Instituto_CGE/index.html",
+      "antes_sha256": "f32988ae80be21989ce7ae96c2be1a35e1def994faee6846cc99a15a699932a8",
+      "despues_sha256": "a25526f0c0450ce7251b2e09ea3a2eec270a1198ac9678e7121939d017bb9455",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/01_Antes_de_empezar/index.html",
+      "antes_sha256": "2aae5d835a80281831519a1db6fea139e1ea182bc3c8edd744d98be0243a201e",
+      "despues_sha256": "c1e659aeaeed3d1aa0662b716cbf4d0b0721a82124f944884a7aab8034f6c2f3",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_FFPE_Marcar_palabras.html",
+      "antes_sha256": "9894245ec0d714f4ed3dc06ff03be69ab4ca31ef3660f28ae58eb8963430dc38",
+      "despues_sha256": "51f22953024a55e4fabd268ada1df48deaebba508bc7c0b3fbeb3b7a8ce1f6f9",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1994"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1994"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_FFPE_Opcion_multiple.html",
+      "antes_sha256": "5b289cd68b52ec32e849db81778e3f3d3100b2a3252df95b5cb16f11704af308",
+      "despues_sha256": "3c88f2aed0b180a83fec29cda3bbd614b2fa8d49537a66e878caa11ccabb1f6f",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1995"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1995"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "190ebd093c271fe53d6142e04a3a9c7e8407f50cf9b3be6e1fa01264ee334a11",
+      "despues_sha256": "9dd078f7384bd71dbc440bd895d2be049e3d78faefa40a7c5123dd0381b9bdeb",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1994",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1995"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1994",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1995"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "a6812312bb4d0e186dad6f3fdf1828d9cd3050d31b70d40985ecb5930188c7b5",
+      "despues_sha256": "5b38a3668fcee42fad943504e7863979fc255a4eebe0544fe3c901559dcfcc3c",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_FFPE_Completar_espacios.html",
+      "antes_sha256": "3fb730ffdfa01650de4d857ad901408c5b00acc9d223baf6cb5c5696bbe3c05d",
+      "despues_sha256": "18f5e0825d81d5116fb418e3a3df69a0f3202d4632da0b77d53560d0573d8ad5",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1996"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1996"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_FFPE_Orden_correcto.html",
+      "antes_sha256": "bffb029d879d7df2a96ad7ecff8dc1528ad6277219f0eaf492ba37d598fb5bf7",
+      "despues_sha256": "1e82a8c0aa37c788ee1566b36a7e45c81d64b4c123b7a9078c4868a8a16bb7c7",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1997"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1997"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "15153eb781b8b01773e3464ddb1f59ce26df21a139f3526eb322228ee15812ae",
+      "despues_sha256": "eb2ed01ccf4c0eba7c2636af4200eb0a16b6a1851ca7f985c47758aa5fb3b7f0",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1996",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1997"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1996",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1997"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "90bb4dfa6b5128057ff5d70ff26981001be1e5a046e65aba0ceacb887d4e12ef",
+      "despues_sha256": "8609071d745c26f66a0cea7c01d737fc68dca8fac66b3c1032e617cfd41e724d",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_FFPE_Arrastra_y_suelta.html",
+      "antes_sha256": "f99d25a8a7acc6e1cf720862a594692374a43963b671034f233cdb8a78ea888f",
+      "despues_sha256": "f77da149bc52931f0be464e53029d5624034b9fa4f1e72e79760f9b8b3b342e1",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1998"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1998"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_FFPE_Tarjetas_interactivas.html",
+      "antes_sha256": "5b7ab56ab7aac20d2a79c8b4ed0563bd98b4eced180c6bbbf445a337e6c8fffc",
+      "despues_sha256": "75a4c0764db95723db559de57e6bdfd16ff4ed2dd0c5b08a72bff6b327265d4b",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1999"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1999"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "b38a3cba93d86ff83b7c03c262df7a2c8b113188e278077e180eb9d1b3f1945d",
+      "despues_sha256": "db2da57bb52f3c5c4ee9c8d06c16b82399d3338f3b8255411525e9cd079dbae2",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1998",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1999"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1998",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1999"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "2455cf26cf53ab0d64ba2cdb47e5bfed492aeb2d35e8722d455f4dbc64e81a87",
+      "despues_sha256": "342b29dd1a9cb52012810ef4dd6ba1e5dc61d0f4bf006b34dfea96bba826a3a1",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_FFPE_Marcar_palabras.html",
+      "antes_sha256": "a7881354a5e6500c19fcabc05f7050270db7340397ab174df22142806c8432b4",
+      "despues_sha256": "f461500e974650d8ebccb2a1a55a2e6339c33a71ed89bebc05b19754fc2d17e4",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2000"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2000"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_FFPE_Opcion_multiple.html",
+      "antes_sha256": "cb0cb4b8734bbb855966d6fffdcd38a56afc7d89e9fb74c81fb9d5e29af2cdd5",
+      "despues_sha256": "f523426095a2f1810e50e595cc1d30238c802a024954e341ad7b9573973c31d6",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2001"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2001"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "5e67e4afb14c9e3a8947776cb47e2244745c01e252bda739c0967bb311272996",
+      "despues_sha256": "427829cbc13e9b95a7963aca05f1d5da68d0f2fb73f6b4ac6caed5f6971b08e3",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2000",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2001"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2000",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=2001"
+      ]
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "6e085a8e4484c837f028ec7c7991995a1484bbd4e817ecc8b10edea2d1b2f475",
+      "despues_sha256": "2cc20e67350c8ffa62894e700a71413bf0ba06b4a817ab59eb8e9401a5ca742a",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/Imagenes/index.html",
+      "antes_sha256": "535af7fcb7bd2741a12e0c540e1757ae2148410987472bd139bbaa5302b04e80",
+      "despues_sha256": "d82cd9339dc2316f8e3643a26bbf94c0e33da90be8be337625690fadceaddc64",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/index.html",
+      "antes_sha256": "bfbf708945c1fce7f6e97940db4b5fa6839e74cdb42111ff93254ae2d65bccad",
+      "despues_sha256": "726cbd7cb55b6965375a35b6ee8760c0807aea52f60f559c98f551de868996c9",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/00_Instituto_CGE/01_Instituto_CGE/instituto_cge.html",
+      "antes_sha256": "d3f1e38578ed39a46349778b4803ad74604de821b089951d16acdee2162f151b",
+      "despues_sha256": "a3edf749f1e4ea8ed6bb431776fbd3506fe17e4f933e25ef971bad47ed7fad40",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/00_Instituto_CGE/02_Soporte/soporte.html",
+      "antes_sha256": "3a4653b35de11d97c2d0bffe3b45441e4067fe66fd30c88af779ce92cadf6540",
+      "despues_sha256": "8380870f187418ab4780dc2eac6dbed0050953ce949e9ee2e835157fe37b74d2",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/00_Instituto_CGE/index.html",
+      "antes_sha256": "3a6f18f456b7ca260b7b5ce310a84acd9ff5fb07c47307c3fedb6dc0323df446",
+      "despues_sha256": "0ab893dab46b20bb8b5d048f32523b04657ffd271e00e21279d75b4ff5b365de",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/01_Antes_de_empezar/index.html",
+      "antes_sha256": "53d4dcb64ece2942e6467f6971b92f0757cb134aba39cae9de092539ced0462f",
+      "despues_sha256": "68e86dbb5b3cc8db560ae9c550be6eff235fe7d024ab3589efc5f094192e7b0d",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_TIC_Arrastra_y_suelta.html",
+      "antes_sha256": "abc14be18989e5605bdb7cd261d3d6cb948afb4c2b1394b33c436c2bcbbd6fa2",
+      "despues_sha256": "3e638c969b3dfb1acd9b39857c314674f9fd4c83b7beadf4439a609ab3065ae0",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1970"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1970"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_TIC_Orden_correcto.html",
+      "antes_sha256": "feee35aba5d4a4971326ac0b89bd919743bb540edc952ff0e331beeffbf6e6a3",
+      "despues_sha256": "1631ea47eb56e5cab47ea3277398dd6f6e69ef1a170d787fbfc387597f11590e",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1971"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1971"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "da34deb178aa19a32d328406cb66860d94bf29bdc998377a89db73088338b6b7",
+      "despues_sha256": "eeaac45cdd80e3b510929f721661de33695a175279e6f0f51bb12751f1f592c5",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1970",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1971"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1970",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1971"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "b0705e5c3844bc8de2c992f145bfd84a24f74a5f67ea30dae300c5ca0f936cde",
+      "despues_sha256": "17a355c2ee57af64f22b74709712a1a7199063799f2dc9ca903000a73680659e",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_TIC_Marcar_palabras.html",
+      "antes_sha256": "192597a01b96afab0b684b0e86cb9c9a9da16c6ec420cc7c74c79645fd1838f1",
+      "despues_sha256": "16acb927010c85d1a50e3dc578bfd95efeedea9681354fb6ef2fc36ed581a679",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1972"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1972"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_TIC_Opcion_multiple.html",
+      "antes_sha256": "ad684aee7c99e555cb0958fb95c444fcbc7c788d812a0021e9eca99ccf55ac32",
+      "despues_sha256": "cfecb4f49e082aa94d03a2b38c40a12e257857e933178c32be3744a53f4ad318",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1973"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1973"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "71ad1ffd9ff7c410593783def638c248b59be4487de20d908c7854524d446e9f",
+      "despues_sha256": "8b3cde648c72913b18209cd374eda8e4eecf53814248c074ea7b4fdc1af67836",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1972",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1973"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1972",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1973"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/02_Bimestre_1/04_Unidad_2/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "49fbb4913676dfe63723e838d07931a6c96841aaaea886dd6f33aab11c5665be",
+      "despues_sha256": "52a4f847c1788c4db658357d97702f3a4941069c0345f095a0212e452056c733",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_TIC_Sopa_de_letras.html",
+      "antes_sha256": "ae312f19319d785dbccae5963c89d8878ed63213ff5ac56bdbac957f0334781e",
+      "despues_sha256": "1c10b16dd55500259ab55fca6c7f009c8f4068bb28c5d449d6dd686f54e43284",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1974"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1974"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_TIC_Opcion_multiple.html",
+      "antes_sha256": "98d5d9ec09f6c82fcc31518919bbf5ace7acd2e4df0102d89e6f608748fcf9a7",
+      "despues_sha256": "654a5de94c0f8364c76a9181c0b7188aee7cb8adcdbddea59c43025ed0b75e38",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1975"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1975"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "cec2931c7fe3f7976d449c4a140f04b21698c4b7fa80018871d0fe7c9443b316",
+      "despues_sha256": "75176951b8ad963810ea6b1b8d08f4a821498fc4d00e0dc68ada74decd229138",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1974",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1975"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1974",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1975"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_TIC_Arrastra_y_suelta.html",
+      "antes_sha256": "a0c510b0111688d9c66aa0973934b0066554f17fdc919d9ecf2487aac9e46786",
+      "despues_sha256": "f77c94e47107f8452b56d778523221219ebeb4623709db159fd02f1e1d088673",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1976"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1976"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_TIC_Tarjetas_interactivas.html",
+      "antes_sha256": "f5b92e51c1f737d9d697df47f09547821150ce98a00b3fb34c36fb8f35cb4d1c",
+      "despues_sha256": "2dcd8d2f4ccc1d9d59dece68b4aceb3a3e3540f7a2d08480a11574546afdb259",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1977"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1977"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "fa909101bd66e736d8f6e80a1022a25adb19ede9cdc6937d4f9c8e4df402a714",
+      "despues_sha256": "09deb4e30b52172b0b8f7685527b7c2471b39ced2d981ead6fc89db90674f720",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1976",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1977"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1976",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1977"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/03_Bimestre_2/04_Unidad_4/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "852b2e7e84a65e153329eb04707ca0fc9624cf7b3d7610e5eb9eee46f3cce0fd",
+      "despues_sha256": "47b13f6b729e0e389a2523015be2e692b7831efd6d804f0b4831cb9245f95c05",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/Imagenes/index.html",
+      "antes_sha256": "87dbe3f52fa5d5e924fb7b9a323a609dae7022b6344bf93e7b3299495d67dbf5",
+      "despues_sha256": "b5eca5c764599da77b71b03c102a051027d975874816bf41bd9acd4703f6555b",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular/index.html",
+      "antes_sha256": "88abd1897d1099e971b2e8aed9d5282b57414d3c75ace426990a08d7b06421d4",
+      "despues_sha256": "31e8f69abb7b0a306825bc3ecfa1f4db1aedc9ee3c5b36dc64f62f640f104848",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/00_Instituto_CGE/01_Instituto_CGE/instituto_cge.html",
+      "antes_sha256": "d3f1e38578ed39a46349778b4803ad74604de821b089951d16acdee2162f151b",
+      "despues_sha256": "a3edf749f1e4ea8ed6bb431776fbd3506fe17e4f933e25ef971bad47ed7fad40",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/00_Instituto_CGE/02_Soporte/soporte.html",
+      "antes_sha256": "3a4653b35de11d97c2d0bffe3b45441e4067fe66fd30c88af779ce92cadf6540",
+      "despues_sha256": "8380870f187418ab4780dc2eac6dbed0050953ce949e9ee2e835157fe37b74d2",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/00_Instituto_CGE/index.html",
+      "antes_sha256": "bdf62531b2c05c8858af8fac1d2e5a3fec26d9abd93a1638d9a831d66ef57105",
+      "despues_sha256": "439ca1f17def49b05e61ea848629ce69c77371ae43a38d3af37b21fd4ed3cec9",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/01_Antes_de_empezar/index.html",
+      "antes_sha256": "66c68e3edb881f36bd6038ce78be1a5097648917c0a7702fcce9735a37b965ee",
+      "despues_sha256": "cbc94e587d5f5b1dc57451faee99506a480e2ae7de412a37b15eb0281d2ecf8f",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_IAADSD_Completar_espacios.html",
+      "antes_sha256": "b13a25dce9235d818ba44f174abd89960539ef860567d6e713737b900c5719d5",
+      "despues_sha256": "2e33f1a3bd1406fc4a791ec39cfcd2e442855c07141014b115bc030f6e217c0a",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1954"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1954"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_IAADSD_Opcion_multiple.html",
+      "antes_sha256": "c36034e74482a338094a79bbf9f141d1a889d6ff204dff2ae964e358266b2de6",
+      "despues_sha256": "8edab6fe731c062349a08ea9026854f4b02752df5aaedda13ff1f03ab07c8769",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1955"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1955"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "750a89f67c26ce86aabf780ea44b09466883ca9001d17b1708be80298273e56c",
+      "despues_sha256": "c138630f5bcc6f1ef8226a7e02d6834646f7a9de626dbe3c1cc892238cadd084",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1954",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1955"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1954",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1955"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "b4002e8ce4217f8d5b875e4da5fd0919c8e108a1589303f90b38525f9226e2e3",
+      "despues_sha256": "b844dcceed7e26ac6fc60b003cdb31d2228d6963b915c244e38fc193269749bc",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_IAADSD_Arrastra_y_suelta.html",
+      "antes_sha256": "d7605c49b90c6a71ab4cf02dad72424c49ec88e5833bf16b4a7cea211cd896c0",
+      "despues_sha256": "e97fa3dfc06ff13c8d3ef62483ba3d9d6f5ae7e692e15b881c3affc920466365",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1956"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1956"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_IAADSD_Orden_correcto.html",
+      "antes_sha256": "c88566789707dfc52b6624416424b0bb1815acfe21a72114ce8398c9fc20214a",
+      "despues_sha256": "9357347e1dcb538d037e97c596a0f0e47e863e408abaadc778d034a8b7d8ec7c",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1957"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1957"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "c9b9aa37a7920fa5e48fb3a0c217ebce0e0d988f6de84a286b2c12b468ac8340",
+      "despues_sha256": "e2d7dd82bf2a039510f803452d8af3cb7a8b7759d25243a8df2ca5817c691469",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1956",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1957"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1956",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1957"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "279628f6773aa849c06eb89cd290946f34a0885109707668805043f2347913ad",
+      "despues_sha256": "cf6002bd0ad9b600533af53e3444d195eb313ca100fca213efa6c41aaaf0e303",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_IAADSD_Marcar_palabras.html",
+      "antes_sha256": "736c60f5d0a8aea0d225d544813e5d8e473eb1ef8c9b829139ed1809acc8fdf0",
+      "despues_sha256": "65fccd98d5a5c09cecf442cf8b7094743e8790c4a029263b785188d9dd54ad23",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1958"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1958"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_IAADSD_Opcion_multiple.html",
+      "antes_sha256": "cd6c8c6225210ac3130f7bc74655f644aeec6a4be52ae6ff077bb443d5b69a9e",
+      "despues_sha256": "461f778a9f3162e162db202b73572fc3eb027b3f42f90e97364840177307c845",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1959"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1959"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "07fabf4de7c6f83ff9954048df327012473c41cf3d09a6cf40f51522290a3326",
+      "despues_sha256": "4aa97d1a5393cd6f0120a73aff6e96363da352b6712110fe778d36d89d4b6447",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1958",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1959"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1958",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1959"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "ac50cb5a3660634d700b2b34029a3ca97c92312c254c5266615c455020b96327",
+      "despues_sha256": "d954506c4114b6d1fa58f4fa75ab8e837014c0bfdf4f0d24cc56c66e58cd2402",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_IAADSD_Completar_espacios.html",
+      "antes_sha256": "38d8a93eb038c4a0b6b24e2c0e9b61eb0d171b30cfe160170e56c4d3f54b4812",
+      "despues_sha256": "ba93e84567e61a21b633241f8c3feaf07aaa730d19c096b122be837fa8e307c1",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1960"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1960"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_IAADSD_Opcion_multiple.html",
+      "antes_sha256": "14557b5bdfdc845179ac4878941fdd8dd8eb80b28fd64c798082ae7b23edeb0d",
+      "despues_sha256": "bac75dd486f5b0ec4d71a6cf60d820ecb20418c48db343ce33710245975103e9",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1961"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1961"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "d35c48fbfc5f794edb3321602cdde657aace484c8773b5ba95d511276d383b61",
+      "despues_sha256": "f7ea1b0c852047a9b19c9724c910c2476f71bacb7106a6bf2ee496cad6557ea3",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1960",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1961"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1960",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1961"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "71f83fa737b83ed6213188948331fcf300fc55f38cf677208ecf3c34aae88a0d",
+      "despues_sha256": "4cf521edea87ee3ac13bddcf0563edcbde85bcd52668e24335b885e29748fb76",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/Imagenes/index.html",
+      "antes_sha256": "5241b4a3f7802b62037e1a2d085acc3a65a3fd2caad0f59dce5cf9457586019a",
+      "despues_sha256": "7a18c97c5d4a5455b0de9327ad7b7b23f436188fde41ce334a1cbd6cb57e2592",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/index.html",
+      "antes_sha256": "6d4070eb3bf2e876b382863b832a992f4c5e5cbf739c835c19f166908b20e5d0",
+      "despues_sha256": "ee0a0930aee9d274ec7399f06bd78a437fe0a2235c8edb9dfca14e3b096fe20b",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/00_Instituto_CGE/01_Instituto_CGE/instituto_cge.html",
+      "antes_sha256": "d3f1e38578ed39a46349778b4803ad74604de821b089951d16acdee2162f151b",
+      "despues_sha256": "a3edf749f1e4ea8ed6bb431776fbd3506fe17e4f933e25ef971bad47ed7fad40",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/00_Instituto_CGE/02_Soporte/soporte.html",
+      "antes_sha256": "3a4653b35de11d97c2d0bffe3b45441e4067fe66fd30c88af779ce92cadf6540",
+      "despues_sha256": "8380870f187418ab4780dc2eac6dbed0050953ce949e9ee2e835157fe37b74d2",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/00_Instituto_CGE/index.html",
+      "antes_sha256": "14bd9c3d672815f57f6eaf449385a77e1fee9f25c4d2e79bee599983b02f0cdc",
+      "despues_sha256": "de8673154d9cf40d25f4d1d38f17463c9dd8b9bdbbf3b04b636060b9fe253e20",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/01_Antes_de_empezar/index.html",
+      "antes_sha256": "66c68e3edb881f36bd6038ce78be1a5097648917c0a7702fcce9735a37b965ee",
+      "despues_sha256": "cbc94e587d5f5b1dc57451faee99506a480e2ae7de412a37b15eb0281d2ecf8f",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_CRMSCII_Completar_espacios.html",
+      "antes_sha256": "87b35ac4d6d315b6620f977837c5375b9d33019aa300b059a60e145d29681210",
+      "despues_sha256": "6a162160c16a1207949afaf41147a36a6bdeb32f301983e882ee8b8b94b45c72",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1978"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1978"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_CRMSCII_Opcion_multiple.html",
+      "antes_sha256": "3ec9f654b673cb5e162024d11628ba0e4dab964be95f450d02d56de7d0c62685",
+      "despues_sha256": "d65461a1a6736c46b1653217ef46358f473d65e67265588d593ba786df344a11",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1979"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1979"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "b4f7bba8fcba28882d95bba5c7283e86f4f7a150d50215c8aa5f9e141fd61ba3",
+      "despues_sha256": "c985e36c1e2b7041455a28aa49bd32cc4ec360de5ee289d76de41ed675d5d0db",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1978",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1979"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1978",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1979"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "0b422485a18675e02f735cacaeda5a0958ce5e2ab3c09deeff9cff036757f239",
+      "despues_sha256": "e432c8f74df01a987af9d9b80537c6d5ba98ab95865a80762b25f0ef8607c0dc",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_CRMSCII_Completar_espacios.html",
+      "antes_sha256": "4e1a8e3dab8d28ae0311898b9eb2e0efd29cf810a7aba02947bd4e7687ed249f",
+      "despues_sha256": "1474de108aa279af5a704e02d1a6605b51783b197865d4a4c8b2a2bdd300064c",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1980"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1980"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_CRMSCII_Orden_correcto.html",
+      "antes_sha256": "26dc748fff229ed1fdeaa2b864dcd24b7bfd4b40a22190c48948b6835dedf8f1",
+      "despues_sha256": "1c1d8a9e4eead9173830b1cbc99a4e04a286d0359f5c46deabc918b755d4c5ff",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1981"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1981"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "f089863fe875070120182856bbaa9a89397b99e526926444924e4bd17932c4fb",
+      "despues_sha256": "b629740464a97962411ea932914579f49589f609a77ec9c3d0fa923f64f13670",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1980",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1981"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1980",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1981"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/02_Bimestre_1/04_Unidad_2/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "807935227d0ab8fa7c73c60e70f95990ca93f1f46f704731859225ce5c5cfc62",
+      "despues_sha256": "ee6b0cd291763a7c0eec77d1aba5829887e24d6784e75a569a8dfd81e6bd1ff5",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_CRMSCII_Arrastra_y_suelta.html",
+      "antes_sha256": "f3ae81897844a58a8f7813e2efe8d355ae3ddaf058f47b8a75c15b3bd15f7145",
+      "despues_sha256": "9f4e1839860e38ed52ed80065ca47d66be509677be4dd1149cbd68159befc8f8",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1982"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1982"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_CRMSCII_Tarjetas_interactivas.html",
+      "antes_sha256": "503021e9ea908971f5497332f0c963c6d86b219b927fcf2146c9dca1c9f09c56",
+      "despues_sha256": "48b4b9e7ec8c3bdd5b0147e282d584782e664e687a0fb2588b45f6e002b0927c",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1983"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1983"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "8f8bfbaff4d41e918f6022ed97eba3b0a7807edbaf91bcd1c4c0b93e26595743",
+      "despues_sha256": "adb9ef1b13e086fa02e754fee6789d5d295fa935de8d4139153dc2fa3984f44a",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1982",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1983"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1982",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1983"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/03_Unidad_3/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "e18ded4431f8e2920c97927fafc5c37cd065726140c0e5465f0ff84f186023ff",
+      "despues_sha256": "c3a886bc16e7e92e12eba5ce3cfe0a02594b8de8a4c302e671c8ff0e7e0fa44b",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_CRMSCII_Marcar_palabras.html",
+      "antes_sha256": "3d7846b26ceac27aab0cb144371b2a262539935d189f2ac4d001bcebbd6c9b03",
+      "despues_sha256": "13377ab3933f5d03555ad8154ba9d2de719fccf829614c3b829f76cec814224d",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1984"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1984"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_CRMSCII_Opcion_multiple.html",
+      "antes_sha256": "3f904f5f97ad24abe1d78503e2b0d18f29d995303e68eaebec4d6e2b70ab7c52",
+      "despues_sha256": "1744f666a88bbe88a367625ea84e3015fda1442a345e9eeac69b60bf074af5c5",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1985"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1985"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "e030a748fa7e4db06235ed84dec6430d7e5c97a55e7a1ce1212382d66d67a8b6",
+      "despues_sha256": "d650d68273f4adca855107a614317f2772fd37ddb175c05ed4c464528aaabb10",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1984",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1985"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1984",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1985"
+      ]
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/03_Bimestre_2/04_Unidad_4/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "9663508185a26b74f8b2b180a2de7835fabae842e935f6266ed076fb7b07a2c0",
+      "despues_sha256": "e36e4c5173c1bf71cdfb662ad1a311a6a34190de68b25188f455dd832f24da1b",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/Imagenes/index.html",
+      "antes_sha256": "78b436ba9a9be09fc8e36299200b4b73943d356a7d4b72794d46d64cd50ab441",
+      "despues_sha256": "0645e38265472c2cf7168c420a884761518adee789ddd45156107badc8c5a9de",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II/index.html",
+      "antes_sha256": "4ea410b6ebba1eb46551eac1f594db3b134c49588a9c45790762ff342e3a2f41",
+      "despues_sha256": "4f7fb5a523be19370bca192a651e3aed3a1069fab1c0ff629c715c532dcb2fee",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/00_Instituto_CGE/01_Instituto_CGE/instituto_cge.html",
+      "antes_sha256": "d3f1e38578ed39a46349778b4803ad74604de821b089951d16acdee2162f151b",
+      "despues_sha256": "a3edf749f1e4ea8ed6bb431776fbd3506fe17e4f933e25ef971bad47ed7fad40",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/00_Instituto_CGE/02_Soporte/soporte.html",
+      "antes_sha256": "3a4653b35de11d97c2d0bffe3b45441e4067fe66fd30c88af779ce92cadf6540",
+      "despues_sha256": "8380870f187418ab4780dc2eac6dbed0050953ce949e9ee2e835157fe37b74d2",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01_Antes_de_empezar/02_Datos_generales/datos_generales.html",
+      "antes_sha256": "eb72427133b4d3ba02ef31690ac7f15a93411af2c01ffbc4e8c77e4a6892474f",
+      "despues_sha256": "93e2c7a2c5fe21740789eba9d8e065789f6e37ba661b049f2998892594103e4a",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01_Antes_de_empezar/04_Enlace_tutorias/enlace_tutorias.html",
+      "antes_sha256": "24c61676475cf8af973e5aa1f8cbc229709e7337e4c2557cfdf2a6a26dad64e5",
+      "despues_sha256": "015723b99f7ee820f8de03c19d1024c2261bb3ab2f2273ba763662cc626fbcdc",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01_Antes_de_empezar/05_Cronograma_de_actividades/cronograma_de_actividades.html",
+      "antes_sha256": "3ba9f29cb46b83612eb24dd2de78c6eee8f66a0fb1d20d6db5e6c6aa68783d55",
+      "despues_sha256": "817c58a8abf67642a77aceac36e36a3349718cf4a70846d2ad95f008eca31604",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01_Antes_de_empezar/07_Evaluacion_diagnostica/evaluacion_diagnostica.html",
+      "antes_sha256": "79e755b2113e98376de731b8ed05aef6f45f884f70cb7c8f93dca716c8caca83",
+      "despues_sha256": "b91735dec782438d0bb470af5b60adf5d3729b64b7dfcfe1943f2c5643ae56b6",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01_Antes_de_empezar/08_Bibliografia/bibliografia.html",
+      "antes_sha256": "2183ca38c43faa650d026ed183036013187b6d83fb77f6332b4f97a4108a4426",
+      "despues_sha256": "516808404a38c2afb48f547f503f02194306292d6c79ab7f06759ef3ed725fbd",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/01_Antes_de_empezar/index.html",
+      "antes_sha256": "ab8927844f9935ede857a7ef4e4d4510452156fa6aefb7bd7e6569b2febc0be5",
+      "despues_sha256": "78cb4cbfa0d93a18d5412a0c8e36f59ba136f95412c300371f31558a0a980dd1",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/03_Unidad_1/01_Descripcion_de_la_unidad/descripcion_unidad.html",
+      "antes_sha256": "47cc8e12709952d6a5c5763b0eef80c589b728cded931d7448911463149b86be",
+      "despues_sha256": "7210ce22cfb8a0f2b3b667d63767a0767ca2dd35cafebd3ad804300d301ade2a",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/03_Unidad_1/03_Contenidos/contenidos.html",
+      "antes_sha256": "2d11f2479d4a74840fb151c1bb4bf417a1a61e535856f6466d8f13b0db5324c5",
+      "despues_sha256": "49e0b1b6a4458d5cf8a928d1a297dcac1686b1ef4ef2f10c75cc6e25bbcc8ec1",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "76d57376e5b8bfe114f7ac1cd01de34c83a2f5af09ec8a559a3b42b08dfe7b68",
+      "despues_sha256": "e1f6d170af601bde83fd415758b732f21368082c3562c50e904e38e089346981",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1525",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1526"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/03_Unidad_1/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "896281bab84d4e09d26a9b2ad07a8384c6d86eb2f74f9ba3bc3ad7a258838be9",
+      "despues_sha256": "f04d96b14e0a90609c974cea420cf17174d0f2ffd9f1121532790f3bd81d616d",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/04_Unidad_2/01_Descripcion_de_la_unidad/descripcion_unidad.html",
+      "antes_sha256": "339ca077e8e3aecf170b124f7e8c1d83e20f8756d80c9d6a2d35b5064a82efde",
+      "despues_sha256": "d37f2374bc83ab739c85772c7c7691e74e67306c07faf4374d47f49973ace5c3",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/04_Unidad_2/03_Contenidos/contenidos.html",
+      "antes_sha256": "2f3e14cbd5c41d4b305e18eda88d21dd303e6d2cd03bf0ccd6f1bc7ab8abbba8",
+      "despues_sha256": "6cc0eed5c175168c964a223837c1c3b61fd7ab0c8681ca110c1bbc5a9ef24994",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/01_Marcar_las_palabras.html",
+      "antes_sha256": "b170873f7b5a43a7e959b3a4f324a5aced4e4bcb0e2da077d0a38a85bed0e80a",
+      "despues_sha256": "bfff82a7472f4d20dcdcf637dc3889b81d19f9c53ff649b68dc244a66c17a502",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1527"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/02_Opcion_multiple.html",
+      "antes_sha256": "c255ea8aff026984e796140951ce7db96fafda9cf64f8ead8f7d9fbbd45b6602",
+      "despues_sha256": "0cb5547f644277261f066e7f82c348f3e31b3c5bb802db9859bc2f4debb2d79f",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1528"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "13a9850ec55989e608456ed749b7667825608848f23d5057ba423d3b4650b376",
+      "despues_sha256": "f5a663b9d6be4edbecf86be3ae6490a80cc4e9da26a9d320fa10c1f1393a9250",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1527",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1528"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/02_Bimestre_1/04_Unidad_2/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "3ab44abc941a934fb817d0421a81a1149347e8a9d341babcddb90423cfcdd7c9",
+      "despues_sha256": "61f43afa9f5f8510561270b922beea3501b69f9a77e71b2147107d9a81c6a11d",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/01_Descripcion_de_la_unidad/descripcion_unidad.html",
+      "antes_sha256": "b9ac499d35772268bed7433f04806e08c4f11595bf73002adae9e963bdc24545",
+      "despues_sha256": "afa464c8fe31c293d6fcaaae8cf91115641d75df9c38593b9d513dc927d1cb3c",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/03_Contenidos/contenidos.html",
+      "antes_sha256": "da6f351b805a6677ca46d9f9c992a265eeb8001a97f774e9de446088a95bf246",
+      "despues_sha256": "80eb533b6df03138abebf267c55cf58ed0e33df66a2dcd3ad5cbe56b30383eb3",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/01_Completa_los_espacios.html",
+      "antes_sha256": "d259c7394231a17f47cd26ecd64293bf4c6175910dadb6aa5c49bff04dc52f3c",
+      "despues_sha256": "8bc5ffd2c6ad1fafc86ee15ff0d64e957b2088ee4d1e5626a958cb61818ac814",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1529"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1529"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/02_Opcion_multiple.html",
+      "antes_sha256": "370dbbe1568522f5bf90298be11b654cb721a47b25c3b1276e951a64e34e5c1b",
+      "despues_sha256": "8dd2ccc591cfc3fa0b14367f5567f0f6f11d88767f9d5f801834f41b5a186784",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1530"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1530"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "3c341ff8792578fcd540f286f4dafee6c2e0622226eaaafb5d14bd74f504ace8",
+      "despues_sha256": "76c37309e545231f9145323ca024e2a48ec1b0acee998bbe39eb1b6399ab4586",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1529",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1530"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1529",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1530"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/03_Unidad_3/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "18f63e6e92b9af57035b5cd050a7510b7ec7880b3b7c6c40f26b1f9bd557844a",
+      "despues_sha256": "b8e23d7f01023e99b9ad9b6127fd03f6b19c8d4b5aa7219d4c604a310d719bb6",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/01_Descripcion_de_la_unidad/descripcion_unidad.html",
+      "antes_sha256": "a64e40cdbb26ce4362e70170acd39aa8b091e7a0ac76c5e746a844f5bd5e684e",
+      "despues_sha256": "d4a5c82b0371b3c770922984a3ae3b900a8e5f3791f6fdc37f43c2392fc11c61",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/03_Contenidos/contenidos.html",
+      "antes_sha256": "85bdc1d31bbeb09f43e83c10178f1943c95d4c382bbed5bfe97a32969f25651e",
+      "despues_sha256": "e56498a65743de3b53b188f243a575a6d97a0f2bc2b00acf50a464f19ba3b884",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/01_Arrastra_y_suelta.html",
+      "antes_sha256": "7bab837af57d4a966dc51d0e208528b646f24b665ff5d106334795f8e427f6d3",
+      "despues_sha256": "108e768884f802595b06c58c0fe1c78e04927135368db0ea87b0d2140b021bd3",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1531"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1531"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/02_Tarjetas_interactivas.html",
+      "antes_sha256": "aa42e8e2bd5c96be593493c42118b855c3417713e2531e54e75f653c0ef1ad80",
+      "despues_sha256": "3fef5959b63a164b642ffd0f42257b38ddb3f78e2c655444e909217e4f2664db",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1532"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1532"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+      "antes_sha256": "4be288a01a336f44967114c80d71eee6e2e8dcf3f099efefdcb15d3a258e0c2d",
+      "despues_sha256": "fe8e0e4cff385bc6298a72e2842c493b19cddc2fa500901a1bfefa0071895cd1",
+      "nuevos_iframes": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1531",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1532"
+      ],
+      "botones_intermedios_eliminados": [
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1531",
+        "https://hefesto.istcge.edu.ec/mod/h5pactivity/view.php?id=1532"
+      ]
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/03_Bimestre_2/04_Unidad_4/07_Actividad_autonoma/actividad_autonoma.html",
+      "antes_sha256": "1a93c474b0b351475dcd1dc3d19e4c59e38b875a7d825b1be72e83a433816cd1",
+      "despues_sha256": "12d2305f5e9944d6e6a67132a5fc6df0c419bed0cb880c4333a681de386b702b",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas/index.html",
+      "antes_sha256": "cc2ca3b002b09c3db36069c286d2f3aba09d6981259f9dd677408f52bdf8e57d",
+      "despues_sha256": "bd463e9c45a02486fa2844ff1a8a4c69675c5d720403648650a09f856c1a1a68",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    },
+    {
+      "ruta": "actividades/index.html",
+      "antes_sha256": "abc46e5a878e0bf065e18157ac6df2b9fe2604870430e8ea204ea50563db4eb3",
+      "despues_sha256": "be881cfd350c8f53506b9a90314566e3d1ddbc190ad87356f4c43f9197676704",
+      "nuevos_iframes": [],
+      "botones_intermedios_eliminados": []
+    }
+  ],
+  "estado_actual": "Corregida la navegación local; inserción H5P parcial: 4 ejercicios con código original y 36 pendientes de recibir su código de inserción."
+}

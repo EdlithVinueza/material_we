@@ -1,0 +1,203 @@
+{
+  "fecha": "2026-11-23",
+  "asignatura": "VENDIG-P2-10",
+  "fuente": "26 URL e identificadores proporcionados por el usuario en este mensaje",
+  "avisos": 1438,
+  "herramientas_externas_lti": 30,
+  "unidades": [
+    {
+      "unidad": 1,
+      "ruta": "02_Bimestre_1/03_Unidad_1",
+      "scorm": 2595,
+      "h5p": [
+        1954,
+        1955
+      ],
+      "autonomo": 1946,
+      "experimental": 1947,
+      "cuestionario": 2010
+    },
+    {
+      "unidad": 2,
+      "ruta": "02_Bimestre_1/04_Unidad_2",
+      "scorm": 2596,
+      "h5p": [
+        1956,
+        1957
+      ],
+      "autonomo": 1950,
+      "experimental": 1952,
+      "cuestionario": 2011
+    },
+    {
+      "unidad": 3,
+      "ruta": "03_Bimestre_2/03_Unidad_3",
+      "scorm": 2597,
+      "h5p": [
+        1958,
+        1959
+      ],
+      "autonomo": 1949,
+      "experimental": 1951,
+      "cuestionario": 2012
+    },
+    {
+      "unidad": 4,
+      "ruta": "03_Bimestre_2/04_Unidad_4",
+      "scorm": 2598,
+      "h5p": [
+        1960,
+        1961
+      ],
+      "autonomo": 1948,
+      "experimental": 1953,
+      "cuestionario": 2013
+    }
+  ],
+  "archivos_modificados": [
+    "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/03_Contenidos/contenidos.html",
+    "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/03_Contenidos/contenidos.html",
+    "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/03_Contenidos/contenidos.html",
+    "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/03_Contenidos/contenidos.html",
+    "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/index.html"
+  ],
+  "verificaciones": [
+    {
+      "unidad": 1,
+      "scorm": "vinculado",
+      "tareas": "IDs correctos",
+      "cuestionario": "ID correcto",
+      "h5p": "A1 y A2 insertados con sus iframe y scripts originales, sin redirecciones."
+    },
+    {
+      "unidad": 2,
+      "scorm": "vinculado",
+      "tareas": "IDs correctos",
+      "cuestionario": "ID correcto",
+      "h5p": "A1 y A2 insertados con sus iframe y scripts originales, sin redirecciones."
+    },
+    {
+      "unidad": 3,
+      "scorm": "vinculado",
+      "tareas": "IDs correctos",
+      "cuestionario": "ID correcto",
+      "h5p": "A1 y A2 insertados con sus iframe y scripts originales, sin redirecciones."
+    },
+    {
+      "unidad": 4,
+      "scorm": "vinculado",
+      "tareas": "IDs correctos",
+      "cuestionario": "ID correcto",
+      "h5p": "A1 y A2 insertados con sus iframe y scripts originales, sin redirecciones."
+    }
+  ],
+  "h5p": "Ocho actividades insertadas dentro de los desplegables con los iframe y scripts originales proporcionados por el usuario. Cuatro bloques conjuntos y ocho HTML individuales. Sin enlaces de redirección.",
+  "navegacion": "_self en todos los accesos",
+  "alcance": "Solo archivos locales de IA aplicada. No se modificaron las otras cuatro asignaturas ni se publicó en Moodle.",
+  "contenidos_en_indice": [
+    {
+      "unidad": 1,
+      "url": "https://hefesto.istcge.edu.ec/mod/scorm/view.php?id=2595",
+      "destino": "misma pestaña"
+    },
+    {
+      "unidad": 2,
+      "url": "https://hefesto.istcge.edu.ec/mod/scorm/view.php?id=2596",
+      "destino": "misma pestaña"
+    },
+    {
+      "unidad": 3,
+      "url": "https://hefesto.istcge.edu.ec/mod/scorm/view.php?id=2597",
+      "destino": "misma pestaña"
+    },
+    {
+      "unidad": 4,
+      "url": "https://hefesto.istcge.edu.ec/mod/scorm/view.php?id=2598",
+      "destino": "misma pestaña"
+    }
+  ],
+  "enlaces_h5p_visibles": [],
+  "restriccion_usuario": "Trabajar solo en archivos HTML, sin usar el navegador.",
+  "h5p_insertados": [
+    {
+      "actividad": "U1_A1_IAADSD_Completar_espacios",
+      "contexto_pluginfile": 2188,
+      "codigo": "iframe + script suministrados por el usuario, conservando atributos",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_IAADSD_Completar_espacios.html"
+      ]
+    },
+    {
+      "actividad": "U1_A2_IAADSD_Opcion_multiple",
+      "contexto_pluginfile": 2189,
+      "codigo": "iframe + script originales proporcionados por el usuario",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_IAADSD_Opcion_multiple.html"
+      ]
+    },
+    {
+      "actividad": "U2_A1_IAADSD_Arrastra_y_suelta",
+      "contexto_pluginfile": 2190,
+      "codigo": "iframe + script originales proporcionados por el usuario",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_IAADSD_Arrastra_y_suelta.html"
+      ]
+    },
+    {
+      "actividad": "U2_A2_IAADSD_Orden_correcto",
+      "contexto_pluginfile": 2191,
+      "codigo": "iframe + script originales proporcionados por el usuario",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_IAADSD_Orden_correcto.html"
+      ]
+    },
+    {
+      "actividad": "U3_A1_IAADSD_Marcar_palabras",
+      "contexto_pluginfile": 2192,
+      "codigo": "iframe + script originales proporcionados por el usuario",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_IAADSD_Marcar_palabras.html"
+      ]
+    },
+    {
+      "actividad": "U3_A2_IAADSD_Opcion_multiple",
+      "contexto_pluginfile": 2193,
+      "codigo": "iframe + script originales proporcionados por el usuario",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_IAADSD_Opcion_multiple.html"
+      ]
+    },
+    {
+      "actividad": "U4_A1_IAADSD_Completar_espacios",
+      "contexto_pluginfile": 2194,
+      "codigo": "iframe + script originales proporcionados por el usuario",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_IAADSD_Completar_espacios.html"
+      ]
+    },
+    {
+      "actividad": "U4_A2_IAADSD_Opcion_multiple",
+      "contexto_pluginfile": 2195,
+      "codigo": "iframe + script originales proporcionados por el usuario",
+      "archivos": [
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+        "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_IAADSD_Opcion_multiple.html"
+      ]
+    }
+  ],
+  "validacion_h5p": {
+    "html_revisados": 12,
+    "actividades_unicas": 8,
+    "iframe_por_desplegable": 1,
+    "urls_y_atributos": "Coinciden con los códigos proporcionados por el usuario",
+    "enlaces_de_redireccion": 0,
+    "navegador": "No utilizado; verificación local del HTML."
+  }
+}

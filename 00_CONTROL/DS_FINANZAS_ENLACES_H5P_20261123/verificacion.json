@@ -1,0 +1,140 @@
+{
+  "fecha": "2026-11-23",
+  "asignatura": "DSOF-B1-06",
+  "fuente": "URL y códigos de inserción corregidos y suministrados por el usuario para Desarrollo de Software",
+  "avisos": 2026,
+  "lti": 19,
+  "unidades": [
+    {
+      "unidad": 1,
+      "ruta": "02_Bimestre_1/03_Unidad_1",
+      "scorm": 2625,
+      "autonomo": 2002,
+      "experimental": 2003,
+      "quiz": 2022
+    },
+    {
+      "unidad": 2,
+      "ruta": "02_Bimestre_1/04_Unidad_2",
+      "scorm": 2626,
+      "autonomo": 2004,
+      "experimental": 2005,
+      "quiz": 2023
+    },
+    {
+      "unidad": 3,
+      "ruta": "03_Bimestre_2/03_Unidad_3",
+      "scorm": 2627,
+      "autonomo": 2006,
+      "experimental": 2007,
+      "quiz": 2024
+    },
+    {
+      "unidad": 4,
+      "ruta": "03_Bimestre_2/04_Unidad_4",
+      "scorm": 2628,
+      "autonomo": 2008,
+      "experimental": 2009,
+      "quiz": 2025
+    }
+  ],
+  "h5p": [
+    {
+      "unidad": 1,
+      "actividad": 1,
+      "id_moodle": 1994,
+      "contexto_pluginfile": 2228,
+      "nombre": "U1_A1_FFPE_Marcar_palabras",
+      "alto": 458,
+      "id_reproductor": "6b04ad86515c76b04ad86515cb1-h5player"
+    },
+    {
+      "unidad": 1,
+      "actividad": 2,
+      "id_moodle": 1995,
+      "contexto_pluginfile": 2229,
+      "nombre": "U1_A2_FFPE_Opcion_multiple",
+      "alto": 328,
+      "id_reproductor": "6b04ad8dcc1316b04ad8dcc1341-h5player"
+    },
+    {
+      "unidad": 2,
+      "actividad": 1,
+      "id_moodle": 1996,
+      "contexto_pluginfile": 2230,
+      "nombre": "U2_A1_FFPE_Completar_espacios",
+      "alto": 520,
+      "id_reproductor": "6b04ad95bf7b36b04ad95bf7b61-h5player"
+    },
+    {
+      "unidad": 2,
+      "actividad": 2,
+      "id_moodle": 1997,
+      "contexto_pluginfile": 2231,
+      "nombre": "U2_A2_FFPE_Orden_correcto",
+      "alto": 592,
+      "id_reproductor": "6b04ad9da28e26b04ad9da28e51-h5player"
+    },
+    {
+      "unidad": 3,
+      "actividad": 1,
+      "id_moodle": 1998,
+      "contexto_pluginfile": 2232,
+      "nombre": "U3_A1_FFPE_Arrastra_y_suelta",
+      "alto": 1305,
+      "id_reproductor": "6b04ada6195086b04ada61950c1-h5player"
+    },
+    {
+      "unidad": 3,
+      "actividad": 2,
+      "id_moodle": 1999,
+      "contexto_pluginfile": 2233,
+      "nombre": "U3_A2_FFPE_Tarjetas_interactivas",
+      "alto": 529,
+      "id_reproductor": "6b04adb0721f26b04adb0721f61-h5player"
+    },
+    {
+      "unidad": 4,
+      "actividad": 1,
+      "id_moodle": 2000,
+      "contexto_pluginfile": 2234,
+      "nombre": "U4_A1_FFPE_Marcar_palabras",
+      "alto": 458,
+      "id_reproductor": "6b04adba04a146b04adba04a181-h5player"
+    },
+    {
+      "unidad": 4,
+      "actividad": 2,
+      "id_moodle": 2001,
+      "contexto_pluginfile": 2235,
+      "nombre": "U4_A2_FFPE_Opcion_multiple",
+      "alto": 328,
+      "id_reproductor": "6b04adc315da46b04adc315da71-h5player"
+    }
+  ],
+  "html_modificados": 18,
+  "html_h5p_verificados": 12,
+  "h5p_distintos": 8,
+  "id_reproductores_distintos": 8,
+  "validacion": "Ocho inserciones distintas con los atributos originales, cada una dentro de su desplegable. Mismos códigos en los HTML individuales correspondientes. Contenidos 2625-2628 vinculados. Tareas, cuestionarios, aviso y LTI cotejados. Todos los enlaces en la misma pestaña. Sin navegador.",
+  "archivos": [
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/actividades_interactivas.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A1_FFPE_Marcar_palabras.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/05_Actividades_interactivas/U1_A2_FFPE_Opcion_multiple.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/actividades_interactivas.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A1_FFPE_Completar_espacios.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/05_Actividades_interactivas/U2_A2_FFPE_Orden_correcto.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/actividades_interactivas.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A1_FFPE_Arrastra_y_suelta.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/05_Actividades_interactivas/U3_A2_FFPE_Tarjetas_interactivas.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/actividades_interactivas.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A1_FFPE_Marcar_palabras.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/05_Actividades_interactivas/U4_A2_FFPE_Opcion_multiple.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/03_Unidad_1/03_Contenidos/contenidos.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/02_Bimestre_1/04_Unidad_2/03_Contenidos/contenidos.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/03_Unidad_3/03_Contenidos/contenidos.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/03_Bimestre_2/04_Unidad_4/03_Contenidos/contenidos.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/index.html",
+    "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales/00_Instituto_CGE/index.html"
+  ]
+}

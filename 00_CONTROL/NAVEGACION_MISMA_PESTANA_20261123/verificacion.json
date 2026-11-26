@@ -1,0 +1,38 @@
+{
+  "html_revisados": 401,
+  "enlaces_comprobados": 679,
+  "apariciones_iframe": 78,
+  "actividades_unicas": 40,
+  "inserciones_nativas_conservadas": 4,
+  "paginas_actividad_insertadas": 36,
+  "por_asignatura": [
+    {
+      "curso": "VENDIG-P1-04 - Psicología del consumidor digital, Pensamiento crítico y comunicación para ventas",
+      "html": 70,
+      "actividades_distintas": 8
+    },
+    {
+      "curso": "02_VENTAS_DIGITALES/VENDIG-P2-10 - IA aplicada al análisis de datos y soporte a la decisión",
+      "html": 73,
+      "actividades_distintas": 8
+    },
+    {
+      "curso": "02_VENTAS_DIGITALES/VENDIG-P3-16 - CRM y Seguimiento de clientes II",
+      "html": 73,
+      "actividades_distintas": 8
+    },
+    {
+      "curso": "02_VENTAS_DIGITALES/TRINCU-I4-24 - Trabajo de Integración Curricular",
+      "html": 73,
+      "actividades_distintas": 8
+    },
+    {
+      "curso": "01_DESARROLLO_SOFTWARE/DSOF-B1-06 - Fundamentos de Finanzas Personales y Empresariales",
+      "html": 73,
+      "actividades_distintas": 8
+    }
+  ],
+  "errores": [],
+  "verificacion_live": "No realizada. Moodle devolvió HTTP 403; comprobar montaje con sesión del aula.",
+  "estado": "Sustituida por verificacion_h5p_rectificado.json tras corrección del usuario"
+}
